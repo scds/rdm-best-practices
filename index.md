@@ -15,18 +15,11 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Getting started with ___.
+# Best Practices for Managing Data in your Research
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
-In this tutorial, you will learn about ______.
-
-## Prerequisites
-
-<!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
+Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists. Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
@@ -38,7 +31,7 @@ By the end of this workshop, you will be able to:
 - You can add more here.
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
-## Duration (optional)
+## Duration
 This module will take around 1 to 2 hours, however feel free to work at your own pace!
 
 ## Land Acknowledgement

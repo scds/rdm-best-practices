@@ -23,12 +23,26 @@ You should now be able to:
 # Additional Resources
 To learn more about any particular topic, take a look at the links below.
 
-## Topic
-- Some link
-- Other 
+## Data Management Plans
+- [DMP Assistant](https://assistant.portagenetwork.ca/)
+- [Building a Data Management Plan for your research project](https://scds.github.io/intro-rdm/dmp) 
+- Digital Research Alliance of Canada (formerly Portage Network) [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
 
-## Topic 2
-- Other resource
+## Data Management
+- [FAIR Principles](https://www.go-fair.org/fair-principles/)
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+- [Research Data Storage Finder Tool](https://rdm.mcmaster.ca/finder)
+- [Tri-Agency Data Management Policy](http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html)
 
+## Data Sharing
+- [Creative Commons Licenses](https://creativecommons.org/)
+- [Open Data Commons Licenses](https://opendatacommons.org/)
+- [Dataverse Community Norms](https://dataverse.org/best-practices/dataverse-community-norms)
+- [DataCite Repository Finder tool](https://commons.datacite.org/repositories)
+- [Nature Scientific Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
+- [re3data Registry of Research Data Repositories](https://www.re3data.org/)
+- [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
+- [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
+<!-- 
 ## Related Workshops
-- Link the users to other related SCDS workshops here!
+- Link the users to other related SCDS workshops here! -->
