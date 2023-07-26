@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lesson 1 - Lesson Name
+title: Data Management Plans
 nav_order: 1
-parent: Lessons
+parent: Topics
 ---
 <!-- 
 This page is an example lesson template.
@@ -11,7 +11,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 {: .no_toc}  
-# Lesson 1 - Lesson Name 
+# Data Management Plans
 
 A small description about the lesson.
 
@@ -32,12 +32,11 @@ A small description about the lesson.
 - Another learning objective.
 
 <!-- A video for your lesson (if applicable) -->
-## Lesson Video
+<!-- ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
 
-<!-- Place iframe of video here -->
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
-[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false)
+[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 ## Sub-Topic
