@@ -18,7 +18,7 @@ ga_tracking: "" # *** This needs to be set up in Google Analytics once you know 
 # nav_footer_logo_top_href: "https://library.mcmaster.ca/services/dash"
 
 # OTHER settings - Override series specific settings
-subtitle: "This workshop is part of the __ series."
+subtitle: "This workshop is part of the Research Data Management (RDM) series."
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
 nav_footer_logo_bottom_href: "https://scds.ca/"
 nav_footer_logo_top: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/rdm-logo.png"

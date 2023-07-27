@@ -10,6 +10,16 @@ Add, edit, or remove any content below for the workshop in question.
 -->
 
 # Workshop Introduction 
+
+<details markdown="block" class="toc">
+  <summary>
+    Table of Contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 <!-- Follow along with the introductory video, slides, or text below. -->
 
 <!-- If your page has a video to go along with it, put it here. -->
@@ -23,7 +33,7 @@ Add, edit, or remove any content below for the workshop in question.
 <!-- Below the video/slides, this is where you put the text version of the page. -->
 ## What is Research Data Management?
 
-Research Data Management (RDM) is the active process of organization and maintenance of data throughout its life cycle. You can think of it as an umbrella term of different practices and things you do as a researcher to ensure your data is secure, accessible, usable, and remains intact over time.
+Research Data Management (RDM) is the active process of organization and maintenance of data throughout a project's life cycle. You can think of it as an umbrella term of different practices and things you do as a researcher to ensure that your data is secure, accessible, usable, and remains intact over time.
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
@@ -31,7 +41,9 @@ RDM comprises of a number of activities throughout your project's lifecycle.
 
 ### Planning
 
-In the planning phase, you might create a data management plan (DMP). You might also have to talk about how you're going to manage your data as part of a grant application, an ethics application, or a research proposal.
+In the planning phase, you might create a data management plan (DMP). 
+
+ You might also have to talk about how you're going to manage your data as part of a grant application, an ethics application, or a research proposal.
 
 ### Data Collection
 

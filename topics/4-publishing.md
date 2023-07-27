@@ -182,6 +182,8 @@ Repository Fidner
 - Data is stewarded by professionals at McMaster.
 - Choose whether to share data openly or through an application process.
 
+### TODO (slides skipped in workshop)
+
 ## Key Points / Summary
 
 - Remind the student about what they just learned.
