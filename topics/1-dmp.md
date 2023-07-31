@@ -13,7 +13,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Data Management Plans
 
-A small description about the lesson.
+Data Management Plans are used to plan, organize, and document how you're going to use your data throughout your research project.
 
 <!-- This is your table of contents. You don't need to touch it, it automatically creates it when you add or remove headers. If you do not want a header to be included, put {: .no_toc } above the header line, as you can see above with Lesson 1 - Lesson Name. Make sure that there's also an empty line above {: .no_toc }... Markdown is picky about this :( -->
 <details markdown="block" class="toc">
@@ -25,12 +25,6 @@ A small description about the lesson.
 {:toc}
 </details>
 
-<!-- Here are your learning objectives. Just like in the introduction, but more specific for this lesson. -->
-## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
-
 <!-- A video for your lesson (if applicable) -->
 <!-- ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
@@ -41,11 +35,13 @@ The following video demonstrates each of the steps outlined below in text.
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 ## What is a Data Management Plan?
 
-A Data Management Plan (DMP) is a living document describing your plan for how you will manage your research data. As a living document, this will be something you'll work with as you go through your research process and adapt as things change during your research. The best time to start making your DMP is at the start of your research so that it can be a proactive process that helps you anticipate and identify opportunities and challenges in managing your data before those opportunities and challenges emerge. 
+A Data Management Plan (DMP) is a living document describing your plan for how you will manage your research data. As a living document, this will be something you'll work with as you go through your research process and adapt as things change during your research. 
 
-A DMP can help you figure out where you're going to store and how you're going to secure your data before you actually get that data so that you're under a little less pressure during your research. 
+The best time to start making your DMP is at the start of your research. It's meant to be proactive process that helps you anticipate and identify opportunities and challenges in managing your data before they emerge so that you're under a little less pressure during your research. 
 
-One important thing to mention about DMPs is that some research funders require grant applicants to submit a DMP. In the US, the National Science Foundation (NSF) and the National Institutes for Health (NIH) both require DMPs (or a variant) to be submitted with the grant application. Wellcome Trust in the UK also requires a DMP, as well as a lot of the other European funders. Recently, the Tri-Agency (SSHRC, NSERC, CIHR)​ have started requiring DMPs as part of grant applications.
+A good DMP covers covers the management of data both **during** the active phases of your research, and **after** the completion of the research project. 
+
+Some research funders require grant applicants to submit a DMP. In the US, the National Science Foundation (NSF) and the National Institutes for Health (NIH) both require DMPs (or a variant) to be submitted with the grant application. Wellcome Trust in the UK also requires a DMP, as well as a lot of the other European funders. Recently, the Tri-Agency (SSHRC, NSERC, CIHR)​ have also started requiring DMPs as part of grant applications.
 
 ## What goes in a Data Management Plan?
 
@@ -76,9 +72,9 @@ Pretty much anything that pertains to your research data will go into your data 
 
 ## DMP Assistant
 
-The best way to build a Data Management Plan is to use the DMP Assistant.
+The best way to build a Data Management Plan is to use [DMP Assistant](https://assistant.portagenetwork.ca/).
 
-DMP Assistant is an online web based data management planning tool that's available to all researchers in Canada for free.
+DMP Assistant is a web based data management planning tool that's available to all researchers in Canada for free.
 
 After making an account and logging in to the website, DMP Assistant will ask you a series of questions about your data management practices. By answering these questions, you are essentially filling in and creating your data management plan.
 
@@ -86,13 +82,22 @@ The website offers lots of data management guidance and links, including McMaste
 
 You can also add collaborators or other researchers to the site so that you can work on the DMP together. 
 
+<img src="../assets/img/lessons/dmp1.png" width="100%" style="border: solid 2px black">
+
+To check out DMP Assistant, you can go to <https://assistant.portagenetwork.ca/>.
+
+We also offer a full workshop on Data Management Plans and using DMP Assistant. You can find that here: <https://scds.github.io/intro-rdm/dmp.html>.
+
 <!-- Summarize your learning objectives here. It acts as a reminder to the learner about what they just learned, as well as a checklist for you to make sure you covered everything you wished to cover. -->
 ## Key Points / Summary
 
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
+- DMPs are living documents that should be used and updated throughout the entirety of the project's life cycle.
+- Some research funders require applicants to submit a DMP.
+- The seven topics that a DMP should cover are Data Collection, Documentation and Metadata, Storage and Backup, Preservation, Sharing and Reuse, Responsibilities and Resources, and Ethics and Legal Compliance
+- DMP Assistant provides some McMaster specific advice on what kind of resources are available to you.
 
 <!-- You can add your additional resources for a specific lesson here, however there is also an additional resources page alongside the conclusion at the end of the workshop website. -->
-## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
+## Additional Resources
+- [DMP Assistant](https://assistant.portagenetwork.ca/)
+- DMP and DMP Assistant Workshop: [Building a Data Management Plan for your Research Project](https://scds.github.io/intro-rdm/dmp.html)
+- Digital Research Alliance of Canada (formerly Portage Network) [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
