@@ -55,8 +55,6 @@ Notetaking Software
 Open Science Framework (OSF)
 : The [Open Science Framework (OSF)](https://osf.io/) is a free platform for research collaboration lets you manage files, data, code, and protocols in one central location. If you want to learn more, check out our [workshop for project organization using the OSF](https://scds.github.io/intro-rdm/osf.html).
 
-
-
 ## File Organization
 
 Something very basic that we sometimes slack on is keeping files organized. The key to organizing files is to make it a habit.
