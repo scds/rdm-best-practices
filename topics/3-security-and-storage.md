@@ -45,6 +45,8 @@ The good rule of thumb is:
 > 1 copy is stored on cloud storage platform  
 > 1 copy is stored in a secure campus drive
 
+If you want to learn more about data backups, check out our workshop "[Strategies for Research Data Storage and Backup](https://scds.github.io/intro-rdm/storage.html)".
+
 ## Research Data Storage Finder Tool
 
 McMaster provides a research data storage finder tool online which is an interactive tool to help you find, compare, and get access to different storage solutions depending on risk, volume, and other needs.
@@ -62,6 +64,8 @@ Sensitive data is any data that could cause harm if released openly. This includ
 - Use "Full disk encrpytion" if you are using a personal computer or laptop. This is called FileVault on Mac OS and "device encryption" or Bitlocker on Windows.
 - Encrypt individual files in Microsoft Office using the "Protect Document" function.
 - Other files can be encrypted using Disk Utility on Mac OS or with a third-party tool like [VeraCrypt](https://www.veracrypt.fr/en/Home.html).
+
+For more details about working with and managing sensitive data, check out our workshop "[Securely Managing and Publishing Sensitive Data](https://scds.github.io/intro-rdm/sensitive.html)".
 
 ### Enable Multi-Factor Authenticator (MFA)
 
@@ -106,6 +110,8 @@ Too Simple
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
 
+For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
+
 ## Key Points / Summary
 
 - Data security can prevent unwanted data access and data loss.
@@ -115,3 +121,8 @@ Identical
 - [Research Data Storage Finder Tool](https://rdm.mcmaster.ca/finder)
 - Disk Encryption Tool: [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 - Password Managers: [BitWarden](https://bitwarden.com/), [1Password](https://1password.com/)
+
+### Workshops
+- [Strategies for Research Data Storage and Backup](https://scds.github.io/intro-rdm/storage.html)
+- [Securely Managing and Publishing Sensitive Data](https://scds.github.io/intro-rdm/sensitive.html)
+- [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html)
