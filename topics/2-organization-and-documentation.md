@@ -8,7 +8,7 @@ parent: Topics
 {: .no_toc}  
 # Organization and Documentation
 
-A small description about the lesson.
+Data documentation and organization supports how findable, accessible, interoperable, and reusable your data is.
 
 <details markdown="block" class="toc">
   <summary>
