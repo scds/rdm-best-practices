@@ -23,12 +23,11 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
-By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
+By the end of this workshop, you will learn about:
+- What data management plans are
+- The importance of file organization and data documentation
+- How to keep your data secure and how to store your data
+- Different things to consider when publishing your data
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration
