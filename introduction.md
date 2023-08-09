@@ -33,7 +33,7 @@ Add, edit, or remove any content below for the workshop in question.
 <!-- Below the video/slides, this is where you put the text version of the page. -->
 ## What is Research Data Management?
 
-Research Data Management (RDM) is the active process of organization and maintenance of data throughout a project's life cycle. You can think of it as an umbrella term of different practices and things you do as a researcher to ensure that your data is secure, accessible, usable, and remains intact over time.
+Research Data Management (RDM) is the active process of organizing and maintaining data throughout a project's life cycle. You can think of it as an umbrella term for different practices and things you do as a researcher to ensure that your data is secure, accessible, usable, and remains intact over time.
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
@@ -47,7 +47,7 @@ In the planning phase, you might create a data management plan (DMP), which you 
 
 Once you start data collection, you'll need to start managing the data. 
 
-This can include things like managing who has access to the data, how it's documented, where you're putting your files, how you're organizing the your folders and data, what kind of metadata you're keeping, and if working with sensitive data, how you're doing the identification of data.
+This can include things like managing who has access to the data, how it's documented, where you're putting your files, how you're organizing your folders and data, what kind of metadata you're keeping, and if you're working with sensitive data, how you're doing the identification of data.
 
 ### Analysis
 
@@ -59,11 +59,11 @@ After data analysis, you're going into the publication and sharing phase.
 
 Many journalists now require data deposits, requiring you to deposit research data, metadata, and any code you might have used into a recognized data repository.
 
-It's also important to think about the long term preservation of your data and how you're going to connect your data sets and research to your research profile using persistent identifiers.
+It's also important to think about the long-term preservation of your data and how you're going to connect your data sets and research to your research profile using persistent identifiers.
 
 ### Discovery and Reuse
 
-Then comes the discovery and reuse phase, which cover concepts like reproducibility, open access, and data repositories.
+Then comes the discovery and reuse phase, which covers concepts like reproducibility, open access, and data repositories.
 
 ### Manage
 
@@ -77,33 +77,33 @@ Have you thought about how vulnerable your data might be?
 
 <div class="code-example" markdown="1">
 
-- In a year or two, will you be able to remember all the details of your experiments?
+**In a year or two, will you be able to remember all the details of your experiments?**
 
-Probably not! It's a good idea to document any important, and even any little details, about your research. This will be important for when it comes time to write your thesis or publish your research.
-
-</div>
-
-<div class="code-example" markdown="1">
-
-- What will happen to your data when you graduate, move, or retire?
-
-Are you going to take your data with you, is your supervisor going to manage it, or is it simply going to stay in the lab? These are all important questions to think about.
+- Probably not! It's a good idea to document any important, and even any little, details about your research. This will be important when it comes time to write your thesis or publish your research.
 
 </div>
 
 <div class="code-example" markdown="1">
 
-- How much work would you have to do if you lost your data?
+**What will happen to your data when you graduate, move, or retire?**
 
-Nowadays, data loss is inevitable. Make a plan for your data as if your laptop or hard drive fails in a month.
+- Are you going to take your data with you, is your supervisor going to manage it, or is it simply going to stay in the lab? These are all important questions to think about.
 
 </div>
 
 <div class="code-example" markdown="1">
 
-- If you need to share your data with a collaborator, would they be able to understand it without your help?
+**How much work would you have to do if you lost your data?**
 
-Not only will documentation help you understand your own data down the line, but it will also help others understand your data. 
+- Nowadays, data loss is inevitable. Make a plan for your data as if your laptop or hard drive fails in a month.
+
+</div>
+
+<div class="code-example" markdown="1">
+
+**If you need to share your data with a collaborator, would they be able to understand it without your help?**
+
+- Not only will documentation help you understand your own data down the line, but it will also help others understand your data. 
 
 </div>
 
@@ -116,14 +116,14 @@ Not only will documentation help you understand your own data down the line, but
 
 We've all seen posters like these, perhaps through online posts on Twitter or Reddit. 
 
-If you're storing your data on your laptop, and your data gets stolen or lost, do you have a backup you can rely on? If you had sensitive data on your laptop, how secure would it be? 
+If you're storing your data on your laptop and it gets stolen or lost, do you have a backup you can rely on? If you had sensitive data on your laptop, how secure would it be? 
 
 ### Campus Fires
 
 <img src="assets/img/introduction/fire.jpg" alt="" width="100%">
 <ins>*Image credit: [ABC News](https://abcnews.go.com/International/brazil-suffers-incalculable-loss-massive-fire-engulfs-200/story?id=57577478)*</ins>
 
-Even if you have your data stored on campus, things do happen. For example, a few years ago, the National Museum of Brazil burnt down and many researchers had lost not only their data, but their physical specimans that they were collecting data from.
+Even if you have your data stored on campus, things do happen. For example, a few years ago, the National Museum of Brazil burned down, and many researchers lost not only their data but their physical specimens that they were collecting data from.
 
 In cases like these, it's really difficult to recover or recollect data.
 
@@ -131,7 +131,7 @@ In cases like these, it's really difficult to recover or recollect data.
 
 <ins>*Image credit: [CTV News Winnipeg](https://winnipeg.ctvnews.ca/fire-may-have-destroyed-years-of-research-1.384027)*</ins>
 
-A few years prior to that, the University of Manitoba had a large fire in the psychology building which destroyed several labs. 
+A few years prior to that, the University of Manitoba had a large fire in the psychology building, which destroyed several labs. 
 
 The university had to spend several million dollars on forensic data recovery over the span of a couple years. They were able to recover a lot of the data from the destroyed computers, however, as a master's or PhD student, you can't afford to wait that long for your data sets to be recovered.
 
@@ -143,47 +143,47 @@ The university had to spend several million dollars on forensic data recovery ov
 
 The last thing to mention is that, as time passes, research data generally becomes less available or entirely lost. 
 
-It's important for you to be mindful of storing your data in such a way that it will let it be accessible and preserved over the long term.
+It's important for you to be mindful of storing your data in such a way that it will be accessible and preserved over the long term.
 
 ## Let's take a look at Dave
 
-"Dave" is a graduate student working in Biomedical Science, focused on x-ray imaging of bone tissue samples. Dave's data is made up of 3 major components:
-- Image files - x-ray images, microscope images
-- Software and hardware configuration files - instrument specific files, scripts, text files
-- Measurement data files - spreadsheet files, tabular data
+"Dave" is a graduate student working in Biomedical Science, focused on x-ray imaging of bone tissue samples. Dave's data is made up of three major components:
+- Image files: x-ray images, microscope images
+- Software and hardware configuration files: instrument-specific files, scripts, text files
+- Measurement data files: spreadsheet files, tabular data
 
-Dave's data is stored seperately in a few places:
+Dave's data is stored separately in a few places:
 - Image files are quite large (2+ TB) and stored on lab computers and a collection of miscellaneous external hard drives accumulated over the years.
-- The other files are smaller (~10 GB) and stored on a personal laptop and a cloud storage platform (OwnCloud)
+- The other files are smaller (~10 GB) and stored on a personal laptop and a cloud storage platform (OwnCloud).
 
 The data is not consistently documented. Dave's lab is under a lot of pressure, and so rather than doing consistent documentation, he always moves onto the next experiment and the next data collection. The data is also not published or shared outside the research group except by direct request. No time or energy is put into archiving the research data.
 
-### What went wrong for Dave
+### What went wrong for Dave?
 
 This is a normal practice for a lot of researchers, where the research is so intense that we don't think we have time to do documentation and focus on preservation. 
 
-In Dave's case, one of his external hard drives fails, leading to the loss of some of his data. This data loss is not discovered for several weeks and there is no back up of this data. Since there's so much data and it's not well documented, Dave isn't sure which data sets he lost.
+In Dave's case, one of his external hard drives failed, leading to the loss of some of his data. This data loss was not discovered for several weeks, and there's no backup of this data. Since there's so much data and it's not well documented, Dave isn't sure which data sets he lost.
 
 This leaves Dave with two options:
 - Extend his degree while he recollects that data, or
-- Publish what he can, even though the explanatory and statistical power of the study has been reduced
+- Publish what he can, even though the explanatory and statistical power of the study has been reduced.
 
 ### What could Dave do better in the future?
 
 1. Dave could make a plan for his data.
-    - A data management plan could help Dave avoid duplication of research and increase use of existing data.
+    - A data management plan could help Dave avoid duplication of research and increase the use of existing data.
     - It can also save time and resources.
 
 2. Dave could organize and document his data consistently.
     - It would help Dave remember what he does.
 
-3. Dave could store and back-up his data securely.
+3. Dave could store and backup his data securely.
     - Backing-up his data would prevent data loss.
     - Securing data would protect research participants.
     
-4. Dave could make sure his data is ready for archival and sharing.
-    - Getting his data ready would help meet funder & journal requirements.
+4. Dave could make sure his data is ready for archiving and sharing.
+    - Getting his data ready would help meet funder and journal requirements.
     - This would also increase visibility and citation credits.
 
-The rest of this workshop will go through these four major topics: data manangement planning, data organization and documentation, data storage and security, and finally data sharing and archival.
+The rest of this workshop will go through these four major topics: data management planning, data organization and documentation, data storage and security, and finally data sharing and archival.
  

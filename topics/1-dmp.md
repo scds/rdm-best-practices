@@ -37,38 +37,63 @@ The following video demonstrates each of the steps outlined below in text.
 
 A Data Management Plan (DMP) is a living document describing your plan for how you will manage your research data. As a living document, this will be something you'll work with as you go through your research process and adapt as things change during your research. 
 
-The best time to start making your DMP is at the start of your research. It's meant to be proactive process that helps you anticipate and identify opportunities and challenges in managing your data before they emerge so that you're under a little less pressure during your research. 
+The best time to start making your DMP is at the start of your research. It's meant to be a proactive process that helps you anticipate and identify opportunities and challenges in managing your data before they emerge, so that you're under a little less pressure during your research. 
 
-A good DMP covers covers the management of data both **during** the active phases of your research, and **after** the completion of the research project. 
+A good DMP covers the management of data both **during** the active phases of your research and **after** the completion of the research project. 
 
-Some research funders require grant applicants to submit a DMP. In the US, the National Science Foundation (NSF) and the National Institutes for Health (NIH) both require DMPs (or a variant) to be submitted with the grant application. Wellcome Trust in the UK also requires a DMP, as well as a lot of the other European funders. Recently, the Tri-Agency (SSHRC, NSERC, CIHR)​ have also started requiring DMPs as part of grant applications.
+Some research funders require grant applicants to submit a DMP. In the US, the National Science Foundation (NSF) and the National Institutes of Health (NIH) both require DMPs (or a variant) to be submitted with the grant application. The Wellcome Trust in the UK also requires a DMP, as do a lot of the other European funders. Recently, the Tri-Agency (SSHRC, NSERC, and CIHR)​ has also started requiring DMPs as part of grant applications.
 
 ## What goes in a Data Management Plan?
 
 Pretty much anything that pertains to your research data will go into your data management plan. More specifically:
 
-- Data Collection
-  - How is your data collected?
-- Documentation and Metadata
-  - How is your data documented?
-  - What metadata will you collect?
-  - What data sets are you using, or what new data will be created?
-- Storage and Backup
-  - How are you going to store and backup your data?
-  - How are you going to keep your data secure?
-- Preservation
-  - How are you going to preserve and archive your data in the long-term?
-- Sharing and Reuse
-  - What kind of sharing are you going to do?
-  - If you can't share your data, why?
-- Responsibilities and Resources
-  - Who is responsible for managing the data sets?
-  - What kind of resources are required to ensure that it's well managed?
-  - How much is it going to cost you to manage the data?
-- Ethics and Legal Compliance
-  - Do you have a data sharing agreement that you have to follow?
-  - Have you gone through ethics approval?
-  - Are there any ethics terms you have to follow regarding your data?
+<table>
+  <tbody>
+    <tr>
+      <td><b>Data Collection</b></td><td><ul>
+        <li>How is your data collected?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Documentation and Metadata</b></td><td><ul>
+        <li>How is your data documented?</li>
+        <li>What metadata will you collect?</li>
+        <li>What data sets are you using, or what new data will be created?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Storage and Backup</b></td><td><ul>
+        <li>How are you going to store and backup your data?</li>
+        <li>How are you going to keep your data secure?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Preservation</b></td><td><ul>
+        <li>How are you going to preserve and archive your data in the long term?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Sharing and Reuse</b></td><td><ul>
+        <li>What kind of sharing are you going to do?</li>
+        <li>If you can’t share your data, why?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Responsibilities and Resources</b></td><td><ul>
+        <li>Who is responsible for managing the data sets?</li>
+        <li>What kind of resources are required to ensure that it’s well managed?</li>
+        <li>How much is it going to cost you to manage the data?</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td><b>Ethics and Legal Compliance</b></td><td><ul>
+        <li>Do you have a data-sharing agreement that you have to follow?</li>
+        <li>Have you gone through ethics approval?</li>
+        <li>Are there any ethical terms you have to follow regarding your data?</li>
+      </ul></td>
+    </tr>
+  </tbody>
+</table>
 
 ## DMP Assistant
 
@@ -78,7 +103,7 @@ DMP Assistant is a web based data management planning tool that's available to a
 
 After making an account and logging in to the website, DMP Assistant will ask you a series of questions about your data management practices. By answering these questions, you are essentially filling in and creating your data management plan.
 
-The website offers lots of data management guidance and links, including McMaster specific guidance on what kind of resources are available to you here. At the end, you're able to export your document into a PDF document, Word document, or just any format you'd like.
+The website offers lots of data management guidance and links, including McMaster-specific guidance on what kind of resources are available to you here. At the end, you're able to export your document into a PDF document, a Word document, or just about any other format you'd like.
 
 You can also add collaborators or other researchers to the site so that you can work on the DMP together. 
 
@@ -94,7 +119,7 @@ We also offer a full workshop on Data Management Plans and using DMP Assistant. 
 - DMPs are living documents that should be used and updated throughout the entirety of the project's life cycle.
 - Some research funders require applicants to submit a DMP.
 - The seven topics that a DMP should cover are Data Collection, Documentation and Metadata, Storage and Backup, Preservation, Sharing and Reuse, Responsibilities and Resources, and Ethics and Legal Compliance
-- DMP Assistant provides some McMaster specific advice on what kind of resources are available to you.
+- DMP Assistant provides some McMaster-specific advice on what kinds of resources are available to you.
 
 <!-- You can add your additional resources for a specific lesson here, however there is also an additional resources page alongside the conclusion at the end of the workshop website. -->
 ## Additional Resources

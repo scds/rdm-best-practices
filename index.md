@@ -15,7 +15,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Best Practices for Managing Data in your Research
+# Best Practices for Managing Data in Your Research
 
 In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
@@ -23,9 +23,9 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
-By the end of this workshop, you will learn about:
-- What data management plans are
-- The importance of file organization and data documentation
+By the end of this workshop, you will have learned about:
+- The importance of data management plans
+- File organization and data documentation fundamentals
 - How to keep your data secure and how to store your data
 - Different things to consider when publishing your data
 
