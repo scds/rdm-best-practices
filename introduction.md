@@ -31,43 +31,58 @@ Add, edit, or remove any content below for the workshop in question.
 [Download slides here.](assets/docs/examplePDF.pdf) -->
 
 <!-- Below the video/slides, this is where you put the text version of the page. -->
+
+## Do I even have research data to manage? 
+<img src="assets/img/introduction/ResearchData.png" alt="Different Data types in a thought bubble - sound, images, video, code, and more" width="40%" align=right style="margin: auto; display: block">
+If your research involves biological samples or survey results, you may feel fairly confident you're working with research data. 
+
+But what if your research is rooted in creative practice? What if you're looking for the specific heat of a material under a magnetic field? What if you're  What if you work with archives or lists of references? What if you're working on an industry-sponsored initiative? 
+
+Research data and research materials can look very different in different fields. Using examples from the [Tri-Agency RDM Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy-frequently-asked-questions#1c): 
+
+"Examples of <b>research materials</b> may include bio-samples for a geneticist, primary sources in an archival fonds for an historian, or a school of zebrafish for a biologist.
+
+Examples of <b>research data</b> corresponding to these materials include gene sequence data, chronological analyses of ideas and contributions, and data on the behaviour of the zebrafish under certain conditions, respectively. “Research material” is a general concept that spans disciplines and may be digital or analogue." <i>(Emphasis ours.)</i>
+
+<b>[Take this quick quiz - which of these examples count as research data?](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true)</b>
+
 ## What is Research Data Management?
 
-Research Data Management (RDM) is the active process of organizing and maintaining data throughout a project's life cycle. You can think of it as an umbrella term for different practices and things you do as a researcher to ensure that your data is secure, accessible, usable, and remains intact over time.
+Research Data Management (RDM) is a suite of connected processes and practices applied throughout the research lifecycle, as data are planned for, collected, organized, documented, stored, preserved, shared, and reused, in support of analysis, research, creative works, and dissemination that benefit society. 
+
+You can think of it as an umbrella term for different practices and things you do as a researcher to ensure that your data is secure, accessible, usable, and remains intact over time.
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
-<img src="assets/img/introduction/lifecycle.png" alt="" width="90%" style="margin: auto; display: block">
+<img src="assets/img/introduction/RDMLifecycle.png" alt="" width="90%" style="margin: auto; display: block">
 
 ### Planning
 
-In the planning phase, you might create a data management plan (DMP), which you might also present as part of a grant application, an ethics application, or a research proposal.
+In the planning phase, you'll create a data management plan (DMP), which you might also present as part of a grant application, an ethics application, or a research proposal.
 
 ### Data Collection
 
-Once you start data collection, you'll need to start managing the data. 
+Once you start data collection, you’ll need to start carrying out your data management plan.
 
-This can include things like managing who has access to the data, how it's documented, where you're putting your files, how you're organizing your folders and data, what kind of metadata you're keeping, and if you're working with sensitive data, how you're doing the identification of data.
+This can include things like managing who has access to the data, how it’s documented through electronic lab notebooks or codebooks, where you’re putting your files and what you're naming them, how you’re organizing folders and data, what kind of metadata you’re keeping, what variables are called, and if you’re working with sensitive data, how you’re removing identifying information like names, ages, and more.
+
+And of course, throughout the whole process, you have to keep your data stored and secure.
 
 ### Analysis
 
-The analysis phase of a project's life cycle is particularly complex, so it has its own support system outside of RDM.
+The analysis phase of a project's life cycle is particularly complex, so it has its own support system outside of RDM. Our colleagues in the [Data Analysis Support Hub](https://library.mcmaster.ca/services/dash), part of the [Sherman Centre for Digital Scholarship](https://scds.ca/) can help support researchers through this phase.
 
 ### Publication and Sharing
 
-After data analysis, you're going into the publication and sharing phase.
+After data analysis, you’re ready to write up your research and publish it in a journal.
 
-Many journalists now require data deposits, requiring you to deposit research data, metadata, and any code you might have used into a recognized data repository.
+In addition to publishing an article, many journals now also require you to deposit or share research data, metadata, and any code you might have used in a recognized data repository.
 
-It's also important to think about the long-term preservation of your data and how you're going to connect your data sets and research to your research profile using persistent identifiers.
+It’s also important to think about the long-term preservation of your data and how you’re going to connect your data sets and research to your research profile using persistent identifiers. 
 
 ### Discovery and Reuse
 
-Then comes the discovery and reuse phase, which covers concepts like reproducibility, open access, and data repositories.
-
-### Manage
-
-And of course, throughout the whole process, you have to keep your data stored and secure.
+Then comes the discovery and reuse phase--making sure your research is reproducible, that articles are available open access, and connected to research data in data repositories.
 
 ## Why is Research Data Management important?
 
@@ -87,7 +102,7 @@ Have you thought about how vulnerable your data might be?
 
 **What will happen to your data when you graduate, move, or retire?**
 
-- Are you going to take your data with you, is your supervisor going to manage it, or is it simply going to stay in the lab? These are all important questions to think about.
+- When you move to a new school or retire, are you going to take your data with you? If you're a graduate student, is your supervisor going to manage it, or is it simply going to stay in the lab? These are all important questions to think about.
 
 </div>
 
@@ -107,7 +122,7 @@ Have you thought about how vulnerable your data might be?
 
 </div>
 
-### Lost Laptops
+### Lost Laptops and Hard Drives
 
 <div>
 <img src="assets/img/introduction/lost1.png" alt="" width="56%">
@@ -118,10 +133,10 @@ We've all seen posters like these, perhaps through online posts on Twitter or Re
 
 If you're storing your data on your laptop and it gets stolen or lost, do you have a backup you can rely on? If you had sensitive data on your laptop, how secure would it be? 
 
-### Campus Fires
+### Campus Fires, Floods, and Environmental Disasters
 
 <img src="assets/img/introduction/fire.jpg" alt="" width="100%">
-<ins>*Image credit: [ABC News](https://abcnews.go.com/International/brazil-suffers-incalculable-loss-massive-fire-engulfs-200/story?id=57577478)*</ins>
+<ins>Image credit: [ABC News](https://abcnews.go.com/International/brazil-suffers-incalculable-loss-massive-fire-engulfs-200/story?id=57577478)</ins>
 
 Even if you have your data stored on campus, things do happen. For example, a few years ago, the National Museum of Brazil burned down, and many researchers lost not only their data but their physical specimens that they were collecting data from.
 
@@ -147,6 +162,10 @@ It's important for you to be mindful of storing your data in such a way that it 
 
 ## Let's take a look at Dave
 
+<img src="assets/img/introduction/Dave.png" alt="" width="25%" align=right style="margin: auto; display: block">
+
+<ins>*Image credit: [National Cancer Institute on Unsplash](https://unsplash.com/photos/XrLSV-CKmuQ)*</ins>
+
 "Dave" is a graduate student working in Biomedical Science, focused on x-ray imaging of bone tissue samples. Dave's data is made up of three major components:
 - Image files: x-ray images, microscope images
 - Software and hardware configuration files: instrument-specific files, scripts, text files
@@ -162,7 +181,7 @@ The data is not consistently documented. Dave's lab is under a lot of pressure, 
 
 This is a normal practice for a lot of researchers, where the research is so intense that we don't think we have time to do documentation and focus on preservation. 
 
-In Dave's case, one of his external hard drives failed, leading to the loss of some of his data. This data loss was not discovered for several weeks, and there's no backup of this data. Since there's so much data and it's not well documented, Dave isn't sure which data sets he lost.
+In Dave's case, one of his <b>external hard drives</b> failed, leading to the loss of some of his data. This data loss was not discovered for several weeks, and there's <b>no backup</b> of this data. Since there's so much data and it's <b>not well documented</b>, Dave isn't sure which data sets he lost.
 
 This leaves Dave with two options:
 - Extend his degree while he recollects that data, or
@@ -170,20 +189,19 @@ This leaves Dave with two options:
 
 ### What could Dave do better in the future?
 
-1. Dave could make a plan for his data.
-    - A data management plan could help Dave avoid duplication of research and increase the use of existing data.
-    - It can also save time and resources.
+1. Dave could **[make a plan for his data](https://scds.github.io/rdm-best-practices/topics/1-dmp.html)**.
+      * A data management plan could help Dave avoid duplication of research and increase the use of existing data.
+      * It can also save time and resources.
 
-2. Dave could organize and document his data consistently.
-    - It would help Dave remember what he does.
+2. Dave could **[organize and document](https://scds.github.io/rdm-best-practices/topics/2-organization-and-documentation.html)** his data consistently.
+     * It would help Dave remember what he does.
 
-3. Dave could store and backup his data securely.
-    - Backing-up his data would prevent data loss.
-    - Securing data would protect research participants.
-    
-4. Dave could make sure his data is ready for archiving and sharing.
-    - Getting his data ready would help meet funder and journal requirements.
-    - This would also increase visibility and citation credits.
+3. Dave could **[store and backup](https://scds.github.io/rdm-best-practices/topics/3-security-and-storage.html)** his data securely.
+    * Backing-up his data would prevent data loss.
+    * Securing data would protect research participants.
+
+4. Dave could make sure his data is ready for **[archiving and sharing](https://scds.github.io/rdm-best-practices/topics/4-publishing.html)**.
+    * Getting his data ready would help meet funder and journal requirements.
+    * This would also increase visibility and citation credits.
 
 The rest of this workshop will go through these four major topics: data management planning, data organization and documentation, data storage and security, and finally data sharing and archival.
- 
