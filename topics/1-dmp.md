@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Data Management Plans
-nav_order: 1
-parent: Topics
+title: 1 - Data Management Plans (DMPs)
+nav_order: 4
 ---
 <!-- 
 This page is an example lesson template.
@@ -11,7 +10,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 {: .no_toc}  
-# Data Management Plans
+# Data Management Plans (DMPs)
 
 Data Management Plans are used to plan, organize, and document how you're going to use your data throughout your research project.
 

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Data Publishing
-nav_order: 4
-parent: Topics
+title: 4 - Data Publishing
+nav_order: 7
 ---
 
 {: .no_toc}  

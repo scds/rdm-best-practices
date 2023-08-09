@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Data Security and Storage
-nav_order: 3
-parent: Topics
+title: 3 - Data Security and Storage
+nav_order: 6
 ---
 
 {: .no_toc}  

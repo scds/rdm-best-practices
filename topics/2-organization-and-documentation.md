@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Organization and Documentation
-nav_order: 2
-parent: Topics
+title: 2 - Organization and Documentation
+nav_order: 5
 ---
 
 {: .no_toc}  
