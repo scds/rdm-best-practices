@@ -7,7 +7,7 @@ nav_order: 6
 {: .no_toc}  
 # Data Security and Storage
 
-Data security is important not only to prevent unwanted access to your data, but also to prevent data loss.
+Data security is important not only to prevent unwanted access to your data but also to prevent data loss.
 
 <details markdown="block" class="toc">
   <summary>
@@ -28,14 +28,14 @@ The following video demonstrates each of the steps outlined below in text.
 
 The best thing you can do for data storage is make sure that you have backups.
 
-A good data storage plan should balance making your data easily accessible, but also reliable and secure.
+A good data storage plan should balance making your data easily accessible while being reliable and secure.
 
 The good rule of thumb is:
 - **3** copies of your data (at least!)
-- **2** copies are on-hand (easily accessible) on different systems (internal hard drive, cloud storage, etc)
+- **2** copies are on-hand (easily accessible) on different systems (internal hard drive, cloud storage, etc.).
   - a "production" (working) copy
   - a "production backup" copy
-- **1** copy is in another location ("off-site") from the others with a trusted service provider
+- **1** copy is in another location ("off-site") from the others with a trusted service provider.
 
 {: .new-title}
 > Example
@@ -48,7 +48,7 @@ If you want to learn more about data backups, check out our workshop "[Strategie
 
 ## Research Data Storage Finder Tool
 
-McMaster provides a research data storage finder tool online which is an interactive tool to help you find, compare, and get access to different storage solutions depending on risk, volume, and other needs.
+McMaster provides a research data storage finder tool online, which is an interactive tool to help you find, compare, and get access to different storage solutions depending on risk, volume, and other needs.
 
 You can access this tool at <https://rdm.mcmaster.ca/finder>.
 
@@ -60,7 +60,7 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 
 Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information and personal health information.
 
-- Use "Full disk encrpytion" if you are using a personal computer or laptop. This is called FileVault on Mac OS and "device encryption" or Bitlocker on Windows.
+- Use "Full disk encryption" if you are using a personal computer or laptop. This is called FileVault on Mac OS and "device encryption" or Bitlocker on Windows.
 - Encrypt individual files in Microsoft Office using the "Protect Document" function.
 - Other files can be encrypted using Disk Utility on Mac OS or with a third-party tool like [VeraCrypt](https://www.veracrypt.fr/en/Home.html).
 
@@ -104,7 +104,7 @@ Written Down
 : Passwords written down on a piece of paper or stored in plain text on a computer may be stolen by somebody with malicious intent or easily lost.
 
 Too Simple
-: Simple or common passwords are easy to guess or brute force. Examples: apple, rowboat, bumblebee, blizzard, password, admin
+: Simple or common passwords are easy to guess or brute-force. Examples: apple, rowboat, bumblebee, blizzard, password, admin
 
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
@@ -113,7 +113,7 @@ For more tips on data privacy, check out our [Data Privacy Best Practices](https
 
 ## Key Points / Summary
 
-- Data security can prevent unwanted data access and data loss.
+- Data security can prevent unwanted data access and loss.
 - You should have 3 copies of your data, 2 of which should be easily accessible, and 1 should be stored in another location.
 
 ## Additional Resources
