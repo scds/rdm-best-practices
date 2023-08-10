@@ -33,7 +33,7 @@ Add, edit, or remove any content below for the workshop in question.
 <!-- Below the video/slides, this is where you put the text version of the page. -->
 
 ## Do I even have research data to manage? 
-<img src="assets/img/introduction/ResearchData.png" alt="Different Data types in a thought bubble - sound, images, video, code, and more" width="40%" align=right style="margin: auto; display: block">
+<img src="assets/img/introduction/ResearchData.png" alt="Different Data types in a thought bubble - sound, images, video, code, and more" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 If your research involves biological samples or survey results, you may feel fairly confident you're working with research data. 
 
 But what if your research is rooted in creative practice? What if you're looking for the specific heat of a material under a magnetic field? What if you're  What if you work with archives or lists of references? What if you're working on an industry-sponsored initiative? 
@@ -44,7 +44,11 @@ Research data and research materials can look very different in different fields
 
 Examples of <b>research data</b> corresponding to these materials include gene sequence data, chronological analyses of ideas and contributions, and data on the behaviour of the zebrafish under certain conditions, respectively. “Research material” is a general concept that spans disciplines and may be digital or analogue." <i>(Emphasis ours.)</i>
 
-<b>[Take this quick quiz - which of these examples count as research data?](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true)</b>
+<!-- <b>[Take this quick quiz - which of these examples count as research data?](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true)</b> -->
+
+### Try this quick quiz - which of these examples count as research data?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## What is Research Data Management?
 
@@ -54,7 +58,7 @@ You can think of it as an umbrella term for different practices and things you d
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
-<img src="assets/img/introduction/RDMLifecycle.png" alt="" width="90%" style="margin: auto; display: block">
+<img src="assets/img/introduction/RDMLifecycle.png" alt="" width="95%" style="margin: auto; display: block">
 
 ### Planning
 
@@ -144,7 +148,7 @@ In cases like these, it's really difficult to recover or recollect data.
 
 <img src="assets/img/introduction/fire2.png" alt="" width="70%" style="margin: auto; display: block">
 
-<ins>*Image credit: [CTV News Winnipeg](https://winnipeg.ctvnews.ca/fire-may-have-destroyed-years-of-research-1.384027)*</ins>
+<ins>Image credit: [CTV News Winnipeg](https://winnipeg.ctvnews.ca/fire-may-have-destroyed-years-of-research-1.384027)</ins>
 
 A few years prior to that, the University of Manitoba had a large fire in the psychology building, which destroyed several labs. 
 
@@ -154,7 +158,7 @@ The university had to spend several million dollars on forensic data recovery ov
 
 <img src="assets/img/introduction/missing.png" alt="" width="70%" style="margin: auto; display: block">
 
-<ins>*Image credit: [Current Biology](https://doi.org/10.1016/j.cub.2013.11.014)*</ins>
+<ins>Image credit: [Current Biology](https://doi.org/10.1016/j.cub.2013.11.014)</ins>
 
 The last thing to mention is that, as time passes, research data generally becomes less available or entirely lost. 
 
@@ -162,9 +166,11 @@ It's important for you to be mindful of storing your data in such a way that it 
 
 ## Let's take a look at Dave
 
-<img src="assets/img/introduction/Dave.png" alt="" width="25%" align=right style="margin: auto; display: block">
-
-<ins>*Image credit: [National Cancer Institute on Unsplash](https://unsplash.com/photos/XrLSV-CKmuQ)*</ins>
+<!-- Change size of Dave's Div using the width of the div-->
+<div style="width:30%; float: right; margin-left: 10px" markdown="1">
+  <img src="assets/img/introduction/Dave.png" style="border-radius: 15px" alt="" width="100%">  
+  <ins>Image credit: [National Cancer Institute on Unsplash](https://unsplash.com/photos/XrLSV-CKmuQ)</ins>
+</div>
 
 "Dave" is a graduate student working in Biomedical Science, focused on x-ray imaging of bone tissue samples. Dave's data is made up of three major components:
 - Image files: x-ray images, microscope images
@@ -189,19 +195,51 @@ This leaves Dave with two options:
 
 ### What could Dave do better in the future?
 
-1. Dave could **[make a plan for his data](https://scds.github.io/rdm-best-practices/topics/1-dmp.html)**.
-      * A data management plan could help Dave avoid duplication of research and increase the use of existing data.
-      * It can also save time and resources.
+<div markdown="1" style="display: grid; column-gap: 10px; align-items: center">
 
-2. Dave could **[organize and document](https://scds.github.io/rdm-best-practices/topics/2-organization-and-documentation.html)** his data consistently.
-     * It would help Dave remember what he does.
+<div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1; grid-template-columns: [first] 15% [line2] auto [end];">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/dmp-icon.png" width="80%">
+<div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
+<p markdown="1" style="margin-bottom: 0px">**1)**&nbsp; Dave could **[make a plan for his data](topics/1-dmp.md)**.</p>
+  <div markdown="1" style="margin-left: 25px; margin-top: 0px">
+  - A data management plan could help Dave avoid duplication of research and increase the use of existing data.
+  - It can also save time and resources.
+  </div>
+</div>
+</div>
 
-3. Dave could **[store and backup](https://scds.github.io/rdm-best-practices/topics/3-security-and-storage.html)** his data securely.
-    * Backing-up his data would prevent data loss.
-    * Securing data would protect research participants.
+<div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 2; grid-column-end: 1; grid-row-end: 2; grid-template-columns: [first] 15% [line2] auto [end];">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/document-icon.png" width="80%">
+<div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
+<p markdown="1" style="margin-bottom: 0px">**2)**&nbsp; Dave could **[organize and document](topics/2-organization-and-documentation.md)** his data consistently.</p>
+  <div markdown="1" style="margin-left: 25px; margin-top: 0px">
+  - It would help Dave remember what he does.
+  </div>
+</div>
+</div>
 
-4. Dave could make sure his data is ready for **[archiving and sharing](https://scds.github.io/rdm-best-practices/topics/4-publishing.html)**.
-    * Getting his data ready would help meet funder and journal requirements.
-    * This would also increase visibility and citation credits.
+<div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 3; grid-column-end: 1; grid-row-end: 3; grid-template-columns: [first] 15% [line2] auto [end];">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/backup-icon.png" width="80%">
+<div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
+<p markdown="1" style="margin-bottom: 0px">**3)**&nbsp; Dave could **[store and backup](topics/3-security-and-storage.md)** his data securely.</p>
+  <div markdown="1" style="margin-left: 25px; margin-top: 0px">
+  - Backing-up his data would prevent data loss.  
+  - Securing data would protect research participants.
+  </div>
+</div>
+</div>
+
+<div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 4; grid-column-end: 1; grid-row-end: 4; grid-template-columns: [first] 15% [line2] auto [end];">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/share-icon.png" width="80%">
+<div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
+<p markdown="1" style="margin-bottom: 0px">**4)**&nbsp; Dave could make sure his data is ready for **[archiving and sharing](topics/4-publishing.md)**.</p>
+  <div markdown="1" style="margin-left: 25px; margin-top: 0px">
+  - Getting his data ready would help meet funder and journal requirements.
+  - This would also increase visibility and citation credits.
+  </div>
+</div>
+</div>
+
+</div>
 
 The rest of this workshop will go through these four major topics: data management planning, data organization and documentation, data storage and security, and finally data sharing and archival.
