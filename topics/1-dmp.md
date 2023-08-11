@@ -118,7 +118,7 @@ To check out DMP Assistant, you can go to <https://assistant.portagenetwork.ca/>
 
 McMaster RDM Services has developed a "McMaster General Purpose DMP Template" which has specific guidance for services and resources at our university. Just click the "Write Plan" button and click on the "Comments and Guidance" sidebar in each section.
 
-<img src="../assets/img/lessons/dmp-guidance.png" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/dmp-guidance.PNG" width="100%" style="border: solid 2px black">
 
 We also offer a full workshop on Data Management Plans and using DMP Assistant. You can find that here: <https://scds.github.io/intro-rdm/dmp.html>.
 
