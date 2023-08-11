@@ -40,7 +40,7 @@ The best time to start making your DMP is at the start of your research. It's me
 
 A good DMP covers the management of data both **during** the active phases of your research and **after** the completion of the research project. 
 
-Some research funders require grant applicants to submit a DMP. In the US, the National Science Foundation (NSF) and the National Institutes of Health (NIH) both require DMPs (or a variant) to be submitted with the grant application. The Wellcome Trust in the UK also requires a DMP, as do a lot of the other European funders. Recently, the Tri-Agency (SSHRC, NSERC, and CIHR)​ has also started requiring DMPs as part of grant applications.
+Some research funders require grant applicants to submit a DMP. In the US, the [National Science Foundation (NSF)](https://new.nsf.gov/funding/data-management-plan) and the [National Institutes of Health (NIH)](https://sharing.nih.gov/data-management-and-sharing-policy) both require DMPs (or a variant) to be submitted with the grant application. The [Wellcome Trust](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan) in the UK also requires a DMP, as do a lot of the other European funders. Recently, the [Tri-Agency (SSHRC, NSERC, and CIHR)​](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) has also started requiring DMPs as part of grant applications.
 
 ## What goes in a Data Management Plan?
 
