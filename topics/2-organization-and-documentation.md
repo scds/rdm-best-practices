@@ -25,7 +25,7 @@ The following video demonstrates each of the steps outlined below in text.
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
 ## Organize and Document your Data
-<img src="assets/img/lessons/cat2.png" alt="A category icon turning into two cats" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+<img src="../assets/img/lessons/cat2.png" alt="A category icon turning into two cats" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 Raw data isn't easy to understand and re-use. Raw numbers in a spreadsheet can be hard to interpret, and variable names might have abbreviations that make it hard for others to understand what it truly is *(What did you mean when you made this column "cat2"? [Did it mean cat, category, or something else?](https://medium.com/@samanthaming/bad-variable-names-to-avoid-%EF%B8%8F-bbab6614f36))*. 
 
 To make data easier to understand, create data documentation that follows the [FAIR principles](https://www.go-fair.org/fair-principles/), which states that data should be Findable, Accessible, Interoperable, and Reusable.
@@ -146,9 +146,6 @@ Codebooks
     <i><ins>Image credit: <a href="http://dataabinitio.com/?p=378">Data Ab Initio</a></ins></i>
   </div>
 </div>
-### Try this quick quiz - what should go in a README file?
-
-<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURFQwWVFUNllSTktFUThUS0xTWUlESDhONi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 {: .important-title}
 > Build a documentation scheme you will actually use!
@@ -158,6 +155,10 @@ Codebooks
 > Whatever file naming and organization scheme you choose, make sure it's descriptive, use it consistently, and document it (in a README.txt file).
 >
 > Take advantage of the software that is out there, including note-taking software, reference management software, and collaboration software.
+
+### Try this quick quiz - what should go in a README file?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURFQwWVFUNllSTktFUThUS0xTWUlESDhONi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Key Points / Summary
 
