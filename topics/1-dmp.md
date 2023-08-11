@@ -11,7 +11,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 {: .no_toc}  
 # Data Management Plans (DMPs)
-
+<img src="../assets/img/lessons/dmp-header.png" width="100%">
 Data Management Plans are used to plan, organize, and document how you're going to use your data throughout your research project.
 
 <!-- This is your table of contents. You don't need to touch it, it automatically creates it when you add or remove headers. If you do not want a header to be included, put {: .no_toc } above the header line, as you can see above with Lesson 1 - Lesson Name. Make sure that there's also an empty line above {: .no_toc }... Markdown is picky about this :( -->
@@ -50,13 +50,15 @@ Pretty much anything that pertains to your research data will go into your data 
   <tbody>
     <tr>
       <td><b>Data Collection</b></td><td><ul>
-        <li>How is your data collected?</li>
+        <li>What types of data will you collect?</li>
+        <li>What file formats will you gather?</li>
+        <li>How will files be version-controlled, organized, and named?</li>
       </ul></td>
     </tr>
     <tr>
       <td><b>Documentation and Metadata</b></td><td><ul>
-        <li>How is your data documented?</li>
-        <li>What metadata will you collect?</li>
+        <li>What documentation will help others understand your data in the future?</li>
+        <li>What metadata--data about data--will you collect?</li>
         <li>What data sets are you using, or what new data will be created?</li>
       </ul></td>
     </tr>
@@ -64,28 +66,32 @@ Pretty much anything that pertains to your research data will go into your data 
       <td><b>Storage and Backup</b></td><td><ul>
         <li>How are you going to store and backup your data?</li>
         <li>How are you going to keep your data secure?</li>
+        <li>If you're working with a research team, how will the team access and contribute data?</li>
       </ul></td>
     </tr>
     <tr>
       <td><b>Preservation</b></td><td><ul>
-        <li>How are you going to preserve and archive your data in the long term?</li>
+        <li>Where will you deposit your data at the end of your research project?</li>
+        <li>How will you ensure data is accessible through preservation-friendly formats?</li>
       </ul></td>
     </tr>
     <tr>
       <td><b>Sharing and Reuse</b></td><td><ul>
-        <li>What kind of sharing are you going to do?</li>
-        <li>If you can’t share your data, why?</li>
+        <li>What data will you share in what form?</li>
+        <li>What license will you use to tell others how they can use it?</li>
+        <li>How will you tell your research community your data exists?</li>
       </ul></td>
     </tr>
     <tr>
       <td><b>Responsibilities and Resources</b></td><td><ul>
         <li>Who is responsible for managing the data sets?</li>
+        <li>What happens if the person responsible needs to step away or moves?</li>
         <li>What kind of resources are required to ensure that it’s well managed?</li>
-        <li>How much is it going to cost you to manage the data?</li>
       </ul></td>
     </tr>
     <tr>
       <td><b>Ethics and Legal Compliance</b></td><td><ul>
+        <li>How will sensitive data be managed and access restricted?</li>
         <li>Do you have a data-sharing agreement that you have to follow?</li>
         <li>Have you gone through ethics approval?</li>
         <li>Are there any ethical terms you have to follow regarding your data?</li>
@@ -98,7 +104,7 @@ Pretty much anything that pertains to your research data will go into your data 
 
 The best way to build a Data Management Plan is to use [DMP Assistant](https://assistant.portagenetwork.ca/).
 
-DMP Assistant is a web based data management planning tool that's available to all researchers in Canada for free.
+DMP Assistant is a web-based data management planning tool that's available to all researchers in Canada for free.
 
 After making an account and logging in to the website, DMP Assistant will ask you a series of questions about your data management practices. By answering these questions, you are essentially filling in and creating your data management plan.
 
@@ -110,15 +116,19 @@ You can also add collaborators or other researchers to the site so that you can 
 
 To check out DMP Assistant, you can go to <https://assistant.portagenetwork.ca/>.
 
+McMaster RDM Services has developed a "McMaster General Purpose DMP Template" which has specific guidance for services and resources at our university. Just click the "Write Plan" button and click on the "Comments and Guidance" sidebar in each section.
+
+<img src="../assets/img/lessons/dmp-guidance.png" width="100%" style="border: solid 2px black">
+
 We also offer a full workshop on Data Management Plans and using DMP Assistant. You can find that here: <https://scds.github.io/intro-rdm/dmp.html>.
 
 <!-- Summarize your learning objectives here. It acts as a reminder to the learner about what they just learned, as well as a checklist for you to make sure you covered everything you wished to cover. -->
 ## Key Points / Summary
 
-- DMPs are living documents that should be used and updated throughout the entirety of the project's life cycle.
+- DMPs are living documents that should be used and updated regularly throughout the entirety of the project's life cycle.
 - Some research funders require applicants to submit a DMP.
-- The seven topics that a DMP should cover are Data Collection, Documentation and Metadata, Storage and Backup, Preservation, Sharing and Reuse, Responsibilities and Resources, and Ethics and Legal Compliance
-- DMP Assistant provides some McMaster-specific advice on what kinds of resources are available to you.
+- The seven topics that a DMP should cover are Data Types and Data Collection, Documentation and Metadata, Storage and Backup, Preservation, Sharing and Reuse, Responsibilities and Resources, and Ethics and Legal Compliance
+- DMP Assistant provides some McMaster-specific guidance on what kinds of resources are available to you in the "guidance and comments" sidebar.
 
 <!-- You can add your additional resources for a specific lesson here, however there is also an additional resources page alongside the conclusion at the end of the workshop website. -->
 ## Additional Resources
