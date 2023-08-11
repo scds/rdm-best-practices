@@ -6,7 +6,7 @@ nav_order: 5
 
 {: .no_toc}  
 # Organization and Documentation
-
+<img src="../assets/img/lessons/document-header.png" width="100%">
 Data documentation and organization supports how findable, accessible, interoperable, and reusable your data is.
 
 <details markdown="block" class="toc">
@@ -25,28 +25,28 @@ The following video demonstrates each of the steps outlined below in text.
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
 ## Organize and Document your Data
-
-Raw data isn't easy to understand and re-use. Raw numbers in a spreadsheet can be hard to interpret, and variable names can have abbreviations that make it hard for others to understand what it truly is.
+<img src="assets/img/lessons/cat2.png" alt="A category icon turning into two cats" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+Raw data isn't easy to understand and re-use. Raw numbers in a spreadsheet can be hard to interpret, and variable names might have abbreviations that make it hard for others to understand what it truly is *(What did you mean when you made this column "cat2"? [Did it mean cat, category, or something else?](https://medium.com/@samanthaming/bad-variable-names-to-avoid-%EF%B8%8F-bbab6614f36))*. 
 
 To make data easier to understand, create data documentation that follows the [FAIR principles](https://www.go-fair.org/fair-principles/), which states that data should be Findable, Accessible, Interoperable, and Reusable.
 
 Some key questions:
 - If you need to use data you collected over a year ago, how easy would they be to find and use?
-- Would you know what all the variable are?
+- Would you know what all the variables and file names mean?
 - Would you have information about when/where/how the data was collected?
 - Have you ever gone to analyze data or publish a paper only to find that some critical piece of information was not recorded, or you don't remember where you wrote it down?
 
-This is all really important to consider, especially these days, because journals are increasingly thinking about research reproducibility. It also helps with research reliability and validity.
+This is all really important to consider, especially these days, because journals are increasingly thinking about research reproducibility. Good documentation and organization helps research reliability, validity, and integrity. It helps you understand what you did--so you can do it again in the future, so you can write about your research more quickly, and gives you a record of what decisions you made and why. 
 
 ## Research Project Management
 
-When doing your research, there are a lot of software packages and tools that can make your life easier.
+When doing your research, there are a lot of tools that can make your life easier.
 
 Collaboration
 : [Google Docs](https://www.google.ca/docs/about/) and [Microsoft Office](https://www.office.com/) let your team work documents in real-time, avoiding multiple versions and copies sent by email.
 
 Reference Management
-: [Zotero](https://www.zotero.org/), [Mendeley](https://www.mendeley.com/), and [EndNote](https://endnote.com/) support collaboration through shared citation libraries. [McMaster provides a paid license to EndNote for free](https://library.mcmaster.ca/databases/endnote) for everyone on campus.
+: [Zotero](https://www.zotero.org/), [Mendeley](https://www.mendeley.com/), and [EndNote](https://endnote.com/) support collaboration through shared citation libraries. Zotero is a free open-source resource that lets you take your library with you if you change institutions. [McMaster also provides a paid license to EndNote for free](https://library.mcmaster.ca/databases/endnote) for everyone on campus.
 
 Notetaking Software
 : [Obsidian](https://obsidian.md/), [Evernote](https://evernote.com/), [OneNote](https://www.onenote.com/?404&public=1), [Notion](https://www.notion.so/), or an Electronic Lab Notebook allow you to create organized, linked notes that you can use to document your research practices.
@@ -76,11 +76,11 @@ Keeping your files organized makes it easier to know where files are and where n
   <img width="80%" alt="the three different story view buttons" src="../assets/img/lessons/org1.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
 </div>
 
-The example above shows files organized by year, followed by project, and then experiment type. 
+The example above shows files organized by year (2021), followed by project (T-rex bone microstructure), and then experiment type (Histology). 
 
 ## File Naming
 
-Once you've come up with a good folder structure, you can start giving your files good names.
+Once you've come up with a solid folder structure, you can start giving your files good names.
 
 Organizing your research files makes your data easier to understand, share, and archive - both now and in the future. A good file organization system should be descriptive, standardized, and implemented consistently.
 
@@ -128,28 +128,32 @@ README
 : A simple text document (.txt) that describes folder hierarchy and file organization, description of important file contents, and any other important project information.
 
 Data Dictionaries
-: A document for tabular data that describes names, labels, units, and contraints
+: A document for tabular data that describes names, labels, units, and contraints.
 
 Codebooks
 : Like data dictionaries but for suvery or statistical data - includes the survey layout and structure, and codes for questions and answers.
 
-<div style="display: grid; align-items: center; row-gap: 2px; column-gap: 10px">
+<div style="display: grid; align-items: top; row-gap: 2px; column-gap: 10px">
   <div style="grid-row-start: 1; grid-column-start: 1">
     <h3>Example README file</h3>
     <p>You can find an portion of an example README documentation file on the right side.</p>
     <p>It starts off with some of the important project information, such as the project's name, the date that the project took place in, a small description about the project, funder information, and finally the researcher's contact information.</p>
     <p>It then mentions the file organization system, followed by any naming coventions that the files follow.</p>
+    <p>Keeping an active README for your project is a key best practice. You can also expand on this with other details such as licenses, related publications, data and file overviews, and methodological information if you share your data.</p>
   </div>
   <div style="grid-row-start: 1; grid-column-start: 2;">
     <img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/org2.png" style="margin: auto; display: block"> 
     <i><ins>Image credit: <a href="http://dataabinitio.com/?p=378">Data Ab Initio</a></ins></i>
   </div>
 </div>
+### Try this quick quiz - what should go in a README file?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURFQwWVFUNllSTktFUThUS0xTWUlESDhONi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 {: .important-title}
 > Build a documentation scheme you will actually use!
 > 
-> The most important aspect of documentation is doing it.
+> The most important aspect of documentation is doing it. If you choose a system that's too complicated, you're less likely to follow it.
 > 
 > Whatever file naming and organization scheme you choose, make sure it's descriptive, use it consistently, and document it (in a README.txt file).
 >
@@ -158,7 +162,7 @@ Codebooks
 ## Key Points / Summary
 
 - Data documentation supports the reusability and interoperability of your research.
-- There are lots of software packages designed to make your life easier.
+- There are lots of tools designed to make your life easier.
 - Build a documentation scheme you will actually use.
 
 ## Additional Resources
