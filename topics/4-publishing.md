@@ -6,7 +6,7 @@ nav_order: 7
 
 {: .no_toc}  
 # Data Publishing
-
+<img src="../assets/img/lessons/publishing-header.png" width="100%">
 What will you do with your data and research once you've wrapped up your project?
 
 <details markdown="block" class="toc">
@@ -31,12 +31,12 @@ What do you plan to do with your data once it's been published? How will you ens
 Consider the advantages of publishing your datasets in an online repository for preservation and sharing.
 
 ## Open Research
+<img src="../assets/img/lessons/open-research.png" alt="A system where researchers, collaborators, publications, code, data, government, and more are all interconnected" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+Open research is an initiative that allows others to freely access and contribute to your research. Some parts of open research include open data, open-source software, open access, and open government. You might be familiar with open research and might have even participated in other open movements. Maybe you've edited Wikipedia, grabbed a code snippet from Stack Overflow, or downloaded a pattern to 3D print. Open initiatives centre around principles of collaboration and transparency. 
 
-Open research is an initiative that allows others to freely access and contribute to your research. Some parts of open research include open data, open-source software, open access, and open government. You might be familiar with open research and might have even participated in it.  
+Open research is often publicly funded. In addition to important research integrity measures such as transparency, accountability, and reproducibility for other researchers, open research also allows data to be framed as a "public good." 
 
-Open research is often publicly funded, and it allows for more transparency, accountability, and reproducibility for other researchers. However, while open research is a wonderful initiative, not all data can or should be shared. 
-
-Any data that can be considered sensitive should not be shared publicly. This includes any personally identifiable information, such as medical information or financial records. 
+However, while open research is an important initiative, not all data can or should be shared. Any data that can be considered sensitive--personally identifiable information, medical information, and more--should not be shared publicly. Data should be ["as open as possible, as closed as necessary."](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
 ## What is Data Sharing?
 
@@ -46,7 +46,7 @@ Any data that can be considered sensitive should not be shared publicly. This in
 
 <img src="../assets/img/lessons/pub1.png" width="100%">
 
-In a typical scenario, you'll have a researcher or research team that has just finished their research process. As a result of their research, they'll have gathered a bunch of research data, which is then used in a publication or journal. The research data, however, is not made publicly available.
+In a typical scenario, you'll have a researcher or research team that has just finished their research process. As a result of their research, they'll have gathered research data, which supports a publication or journal. The research data, however, is not made publicly available.
 
 </div>
 
@@ -54,7 +54,7 @@ In a typical scenario, you'll have a researcher or research team that has just f
 
 <img src="../assets/img/lessons/pub2.png" width="100%">
 
-Once the research goes through a peer review process, you might be able to send the data directly to the researchers for them to analyze. More commonly, however, you'll see the phrase "data available on request". In practice, there are often big delays in receiving data in this manner, and it can be quite difficult to contact the researcher as well.
+Once the research goes through a peer review process, you might be able to send the data directly to peer reviewers for them to analyze. However, after the article is published, data becomes harder to access. We often see the phrase "data available on request" at the bottom of an article. In practice, there are often big delays in receiving data in this manner, and it can be quite difficult to contact the researcher as well.
 
 </div>
 
@@ -62,7 +62,7 @@ Once the research goes through a peer review process, you might be able to send 
 
 <img src="../assets/img/lessons/pub3.png" width="100%">
 
-Later on, another researcher or research team might contact the original researcher for the research data so that they can build upon it or use it as part of their own research. However, original researcher might be hard to contact, or they might no longer have access to the data. This can make it hard for researchers to trust the paper's findings without the original data to back them up, and this can even lead to article retractions.
+Later on, another researcher or research team might contact the original researcher for the research data so that they can try reproducing it, building upon it, or re-analyzing it as part of their own research. However, original researcher might be hard to contact, or they might no longer have access to the data. This can make it hard for researchers to trust the paper's findings without the original data to back them up, and this can even lead to article retractions. They might cite your publication, but are unable to cite your data. 
 
 </div>
 
@@ -96,9 +96,15 @@ Any researcher participating in the peer review process can easily access the da
 
 <img src="../assets/img/lessons/pub6.png" width="100%">
 
-Now that the research data is easily accessible, a researcher could use it to interpret the data in their own way, or perhaps another researcher can use the data alongside their own data to publish another paper. The original researcher can also come back and make new reflections on the original data.
+Now that the research data is easily accessible in a trusted data repository, other researchers can use this secondary data for several other purposes. 
 
-All of this leads to further citations, collaborations, and partnerships, which are beneficial to you as well as the research community.
+A researcher could use the original methodology and approach to gather new research data, combine it with the original data into a publication with a bigger dataset. 
+
+A researcher could interpret the original data in their own way, potentially even in a different field, producing another paper.
+
+Or, the original researcher can also come back and make new reflections on the original data.
+
+All of this leads to further citations, collaborations, and partnerships, which are beneficial to the original researcher as well as the research community.
 
 </div>
 
