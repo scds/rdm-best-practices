@@ -40,6 +40,8 @@ The best time to start making your DMP is at the start of your research. It's me
 
 A good DMP covers the management of data both **during** the active phases of your research and **after** the completion of the research project. 
 
+Research almost always a team effort. DMPs are a great way to get on the same page as collaborators. If you're working as team, discuss and develop your DMP with anyone who will be part of collecting, analyzing, and storing the data: research assistants, coordinators, and other staff. This can become part of your onboarding workflow. If you're a graduate student, your supervisor can review and comment on your DMP. If you're working with research participants, your DMP could be reviewed by community leadership, partner organizations, and the participants themselves--this is especially important for Indigenous research data. As ever, the many staff who support research can also contribute: RDM professionals, IT units, archivists and librarians, research offices, ethics boards, and more. 
+
 Some research funders require grant applicants to submit a DMP. In the US, the [National Science Foundation (NSF)](https://new.nsf.gov/funding/data-management-plan) and the [National Institutes of Health (NIH)](https://sharing.nih.gov/data-management-and-sharing-policy) both require DMPs (or a variant) to be submitted with the grant application. The [Wellcome Trust](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan) in the UK also requires a DMP, as do a lot of the other European funders. Recently, the [Tri-Agency (SSHRC, NSERC, and CIHR)​](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) has also started requiring DMPs as part of grant applications.
 
 ## What goes in a Data Management Plan?
@@ -99,6 +101,13 @@ Pretty much anything that pertains to your research data will go into your data 
     </tr>
   </tbody>
 </table>
+
+<!-- <b>[Try this quick quiz - which of the following statements is true about DMPs?]
+(https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUQURaSVZBRDJFTzJBRElRUzhURFlOWUo5RC4u&embed=true)</b> -->
+
+### Try this quick quiz - which of the following statements is *true* about DMPs?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUQURaSVZBRDJFTzJBRElRUzhURFlOWUo5RC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## DMP Assistant
 
