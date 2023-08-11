@@ -63,8 +63,9 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 
 ### Encrypt Sensitive Data
 <img src="../assets/img/lessons/sensitive-data.png" alt="an image of a focus group where parents and babies are learning about nutrition with a researcher" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
-  <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
-</div>
+
+  <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins> 
+  
 Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information or personal health information. It can also include confidential business information (such as data that might lead to a patent), sensitive ecological information (like nesting sites for endangered species), or Indigenous cultural pracitces. 
 
 Sensitive data stored on a device that is connected to the internet should be encrypted. Encryption is when information is changed so only a person with the correct password can read it. 
@@ -119,8 +120,7 @@ Too Simple
 
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
-
-  <img width="30%" align=right alt="Bad passwords examples - stored in an excel file, too simple, and all of them are football" src="../assets/img/lessons/bad-passwords.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
+<img src="../assets/img/lessons/bad-passwords.png" alt="Bad passwords examples - stored in an excel file, too simple, and all of them are football" width="30%" align=right style="display: block; border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
 </div>
 
 For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
