@@ -26,8 +26,8 @@ The following video demonstrates each of the steps outlined below in text.
 
 ## Even cautious people can lose data. 
 <img src="../assets/img/lessons/research-security.png" alt="research is locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
-*Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day.
-Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.* 
+<i>Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day.
+Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.</i>
 
 Backup strategies, encrypting sensitive data, and data security measures help you store your data safely. This can help **avoid data loss** through theft or loss of your devices, accidental damage or destruction. It can also help you maintain **IT security** by avoiding computer viruses, malware, ransomware, and more. 
 
@@ -62,11 +62,12 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 ## How Should I Protect my Data?
 
 ### Encrypt Sensitive Data
-<div style="width:30%; float: right; margin-left: 10px" markdown="1">
-  <img src="../assets/img/introduction/sensitive-data.png" style="border-radius: 15px" alt="" width="100%">  
+<img src="../assets/img/lessons/sensitive-data.png" alt="an image of a focus group where parents and babies are learning about nutrition with a researcher" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
   <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
 </div>
-Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information or personal health information. It can also include confidential business information (such as data that might lead to a patent), sensitive ecological information (like nesting sites for endangered species), or Indigenous cultural pracitces.
+Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information or personal health information. It can also include confidential business information (such as data that might lead to a patent), sensitive ecological information (like nesting sites for endangered species), or Indigenous cultural pracitces. 
+
+Sensitive data stored on a device that is connected to the internet should be encrypted. Encryption is when information is changed so only a person with the correct password can read it. 
 
 - Use **"Full disk encryption"** if you are using a personal computer or laptop. This is called FileVault on Mac OS and "device encryption" or Bitlocker on Windows.
 - Encrypt individual files in Microsoft Office using the "Protect Document" function.
@@ -106,8 +107,8 @@ Make sure your online information is secure by ensuring your password is:
 > Remembering multiple passwords can be difficult. Use a trusted password manager to keep track of your passwords for you. Some examples are [BitWarden](https://bitwarden.com/) and [1Password](https://1password.com/).
 
 ### Common Password Mistakes
-  <img width="30%" align=right alt="Bad passwords examples - stored in an excel file, too simple, and all of them are football" src="../assets/img/lessons/bad-passwords.png" style="border: solid 2px black;> 
-
+<div style="display: grid; align-items: center; row-gap: 2px; column-gap: 10px">
+  <div style="grid-row-start: 1; grid-column-start: 1">
 Make sure your passwords aren't:
 
 Written Down
@@ -119,7 +120,8 @@ Too Simple
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
 
-
+  <img width="30%" align=right alt="Bad passwords examples - stored in an excel file, too simple, and all of them are football" src="../assets/img/lessons/bad-passwords.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
+</div>
 
 For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
 
