@@ -25,7 +25,7 @@ The following video demonstrates each of the steps outlined below in text.
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
 ## Even cautious people can lose data. 
-<img src="assets/img/lessons/research-security.png" alt="research is locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+<img src="../assets/img/lessons/research-security.png" alt="research is locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 *Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day.
 Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.* 
 
@@ -64,7 +64,7 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 ### Encrypt Sensitive Data
 <!-- Change size of sensitive-data's Div using the width of the div-->
 <div style="width:30%; float: right; margin-left: 10px" markdown="1">
-  <img src="assets/img/introduction/sensitive-data.png" style="border-radius: 15px" alt="" width="100%">  
+  <img src="../assets/img/introduction/sensitive-data.png" style="border-radius: 15px" alt="" width="100%">  
   <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
 </div>
 Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information or personal health information. It can also include confidential business information (such as data that might lead to a patent), sensitive ecological information (like nesting sites for endangered species), or Indigenous cultural pracitces.
@@ -129,6 +129,10 @@ For more tips on data privacy, check out our [Data Privacy Best Practices](https
 
 - Data security can prevent unwanted data access and loss.
 - You should have 3 copies of your data, 2 of which should be easily accessible, and 1 should be stored in another location.
+
+### Try this quick quiz - what are some best practices for storing, securing, and backing up data?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUMDlGWTVBUlhRVFA4UTMwVjZIVU1XNUhOTC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Additional Resources
 - [Research Data Storage Finder Tool](https://rdm.mcmaster.ca/finder)
