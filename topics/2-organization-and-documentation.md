@@ -36,7 +36,7 @@ Some key questions:
 - Would you have information about when/where/how the data was collected?
 - Have you ever gone to analyze data or publish a paper only to find that some critical piece of information was not recorded, or you don't remember where you wrote it down?
 
-This is all really important to consider, especially these days, because journals are increasingly thinking about research reproducibility. Good documentation and organization helps research reliability, validity, and integrity. It helps you understand what you did--so you can do it again in the future, so you can write about your research more quickly, and gives you a record of what decisions you made and why. 
+Good documentation and organization helps research reliability, validity, reproducibility, and integrity. 
 
 ## Research Project Management
 
