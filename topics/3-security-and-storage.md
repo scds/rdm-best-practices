@@ -62,7 +62,7 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 ## How Should I Protect my Data?
 
 ### Encrypt Sensitive Data
-<img src="../assets/img/lessons/sensitive-data.png" alt="an image of a focus group where parents and babies are learning about nutrition with a researcher" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+<img src="../assets/img/lessons/sensitive-data.png" alt="an image of a focus group where parents and babies are learning about nutrition with a researcher" width="50%" align=right style="display: block; margin: 10px; border-radius: 30px">
 
   <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins> 
   
@@ -108,8 +108,8 @@ Make sure your online information is secure by ensuring your password is:
 > Remembering multiple passwords can be difficult. Use a trusted password manager to keep track of your passwords for you. Some examples are [BitWarden](https://bitwarden.com/) and [1Password](https://1password.com/).
 
 ### Common Password Mistakes
-<div style="display: grid; align-items: center; row-gap: 2px; column-gap: 10px">
-  <div style="grid-row-start: 1; grid-column-start: 1">
+<img src="../assets/img/lessons/bad-passwords.png" alt="an image of password bad practices: stored in a spreadsheet, and all of them are football" width="50%" align=right style="display: block"></img>
+
 Make sure your passwords aren't:
 
 Written Down
@@ -120,8 +120,6 @@ Too Simple
 
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
-<img src="../assets/img/lessons/bad-passwords.png" alt="Bad passwords examples - stored in an excel file, too simple, and all of them are football" width="30%" align=right style="display: block; border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
-</div>
 
 For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
 
