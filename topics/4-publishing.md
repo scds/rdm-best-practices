@@ -39,6 +39,7 @@ Open research is often publicly funded. In addition to important research integr
 However, while open research is an important initiative, not all data can or should be shared. Any data that can be considered sensitive--personally identifiable information, medical information, and more--should not be shared publicly. Data should be ["as open as possible, as closed as necessary."](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
 ## What is Data Sharing?
+Sharing research data benefits you as a researcher and the whole research community. Open access to data allows for the verification and reproduction of research. The best way to share data is to publish it on a recognized data repository. This also helps archive your data for the long-term, entrusting its care to data curators instead of maintaining it yourself. 
 
 ### Research Scenario without Data Sharing
 
@@ -128,87 +129,24 @@ Many journals are starting to require data sharing or at least data availability
 
 Journals with higher impact factors are more likely to have data sharing policies.
 
-### Tri-Agency Requirements
+### Funder Requirements
+Data Deposit is part of the [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy). 
 
 > "Grant recipients are required to deposit into a digital repository all digital research data, metadata and code... in journal publications and pre-prints."
+
+<b><u>Grant recipients will not be required to openly share data.</u></b> Rollout will follow review of institutional strategies and in line with readiness of Canadian research community. SSHRC and some CIHR data is already required to be deposited.
 
 CIHR currently requires researchers to "Deposit bioinformatics, atomic, and molecular coordinate data into the appropriate public database."
 
 SSHRC also requires researchers to "make available for use by others all research data collected with the use of SSHRC funds".
 
-To find out more about the Tri-Agency data requirements, check out "[What you need to know about the Tri-Agency RDM Policy](https://scds.github.io/intro-rdm/triagency.html)" and the "[Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy)".
+To find out more about the Tri-Agency data requirements, check out our webinar "[What you need to know about the Tri-Agency RDM Policy](https://scds.github.io/intro-rdm/triagency.html)" and the [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy).
 
-## Open Access (OA) Publishing
+The Tri-Agency's Data Deposit requirement aligns Canadian research with international funders, such as the [National Institutes of Health (NIH)](https://sharing.nih.gov/data-management-and-sharing-policy) in the USA, the [UK Research and Innovation](https://www.ukri.org/manage-your-award/publishing-your-research-findings/making-your-research-data-open/), and others.
 
-The Tri-Agency is requiring any publicly funded research to be published openly. We encourage all research to be published openly when possible!
+### Try this quick quiz - why might researchers might want to share datasets?
 
-### Online Repositories
-- Final manuscripts can be deposited in an institutional or disciplinary repository (such as [arXiv.org](https://arXiv.org)).
-- Researchers are responsible for navigating the copyright requirements of the journal, but there are lots of resources available, and the library can assist you if you need help.
-
-### Journals
-- Journal provides open access to the article (within 12 months).
-- Most journals will charge open access fees.
-
-## Persistent Identifiers
-
-Persistent Identifiers (PIDs) help keep track of everything and make research searchable. They're unique links that will never expire.
-
-Digital Object Identifiers (DOIs)
-: Can be used for publications, datasets, lab equipment, research software, and more.
-
-Open Researcher and Contributor ID (ORCiD)
-: Unique identifier for researchers. Distinguish yourself from scholars with the same name; connect your datasets, code, and publications.
-
-If you're interested in learning more, check out:
-- "[Set yourself up for research success: Manage your data like a pro, and get your own ORCiD profile](https://scds.github.io/intro-rdm/researchsuccess.html)"
-- "[What are ORCiDs and DOIs—and Why Do I Need Them?](https://scds.github.io/intro-rdm/doi-orcid.html)"
-
-## Sustainable File Formats
-
-Have you ever saved data on a CD, DVD, or Blu-ray? How about a zip drive or HD DVD? Do you use Google Docs or Prezi, where all your documents are stored online on a proprietary platform in a proprietary format? What would you do if that platform closed down?
-
-Other researchers may not have access to any proprietary software you use, so data and metadata should ideally be stored in sustainable formats. Look for formats that are:
-- Standardized
-- Well documented
-- In common usage
-- Uncompressed
-
-Research instrument files may be manufacturer-specific and should be converted to a sustainable format when possible.
-
-## Datasets as a Digital Object
-
-When sharing your datasets, you should share your:
-
-<img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/pub7.png"> 
-
-## Data Licensing
-
-If you license your data or code, it falls under the default copyright laws. This means nobody else can copy, distribute, or modify your work without being at risk.
-
-Not having an explicit license restricts others from using your code or data and causes confusion.
-
-- Creative Commons (CC): [creativecommons.org](https://creativecommons.org/)
-  - CC0 - public domain dedication
-  - CC-BY - requires attribution
-  - There are further restrictions that can be added, such as NC.
-- Open Data Commons: [opendatacommons.org](https://opendatacommons.org/)
-  - Similar licenses to CC but built for data
-  - PDDL - Public Domain Dedication and License
-  - ODC-By - require attribution
-  - ODbL - attribution and share alike
-- Traditional Knowledge (TK): [localcontexts.org/licenses](https://localcontexts.org/licenses)
-  - In addition to the First Nations Information Governence Centre's OCAP training, communities may also use TK licenses.
-
-## Community Norms
-
-For data, there are also community norms. Dataverse and Open Data Commons community norms include:
-- Share your work
-- Credit and Cite the datasets you use
-- Maintain the anonymity of human research participants
-- Encourage others to reuse data
-- Use open formats
-- Don't use Digital Rights Management (DRM)
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUMDlGWTVBUlhRVFA4UTMwVjZIVU1XNUhOTC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Where do I put my data?
 
@@ -220,31 +158,22 @@ Repositories provide:
 - easy-to-use shared platforms made for research.
 
 There are thousands of data repositories available for you to use. A few types of repositories include:
+<img src="../assets/img/lessons/repo-options.png" width="100%">
 
 Domain-Specific Repositories
-: Focus on certain types of data, such as genomic information or astronomical information.
+: Focus on certain types of data, such as genomic information or astronomical information. [Nature's Data Repository Guidance](https://www.nature.com/sdata/policies/repositories#) can be helpful in narrowing down possibilities.
 
 General Repositories
-: Accept broader types of research data, e.g. McMaster Dataverse (part of Borealis) and Canada's Federated Research Data Repository (FRDR).
+: Accept broader types of research data, e.g. [McMaster Dataverse (part of Borealis)](https://borealisdata.ca/dataverse/mcmaster) and Canada's [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/).
 
 Code Repositories
-: There are also code-specific repositories like GitHub, GitLab, BitBucket, and SourceForge.
+: There are also code-specific repositories like [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/product), and [SourceForge](https://sourceforge.net/).
 
 DataCite provides a tool that can help you find an appropriate repository to deposit your research data: [repositoryfinder.datacite.org](https://commons.datacite.org/repositories)
 
-### MacSphere
-
-<img src="../assets/img/lessons/macsphere.jpg" width="30%">
-
-MacSphere is McMaster's institutional repository, and it is the home for all scholarly documents, including publications, presentations, conference proceedings, theses, reports, and more.
-
-This is where you'll upload your thesis once you graduate. Make sure to link your dataset DOI if you have relevant research data.
-
-You can access MacSphere by going to [macsphere.mcmaster.ca/](https://macsphere.mcmaster.ca/).
-
 ### McMaster Dataverse
 
-McMaster Dataverse, on the other hand, is McMaster's institutional data repository. This is the home for all research data originating from McMaster researchers.
+[McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster) is McMaster's institutional data repository. This is the home for all research data originating from McMaster researchers.
 
 The McMaster Dataverse provides basic data curation services. The data is also stewarded by professionals at McMaster.
 
@@ -264,7 +193,106 @@ It's built for large datasets (1 TB+). The datasets are actively curated by prof
 
 The FRDR requires datasets to be open access, but they can be embargoed for a one-year period. For those working with sensitive data, the FRDR are working on a pilot project to add an optional zero-knowledge encryption to their repository, meaning that the FRDR will never be able to access the data. This allows you to deposit your data in a trusted data repository for archival purposes while maintaining complete control over access to the data. 
 
+#### Controlled Access Management Pilot
+FRDR is part of a Controlled Access Management pilot project to add optional zero-knowledge encryption to the repository. “Zero-knowledge encryption” means that FRDR will never be able to access your data directly. All datasets that are deposited are encrypted and their keys deposited into a separate researcher-managed platform. 
+
+This allows you to store your data in a trusted repository for archival but still control a restricted access protocol.
+
 If you're interested in piloting this service, email us at [rdm@mcmaster.ca](emailto:rdm@mcmaster.ca).
+
+## Datasets as a Digital Object
+When sharing datasets, there are a few things you need consider adding to ensure data is findable by other researchers, interconnected with publications and yourself, other researchers know how they are allowed to use it, and it will be available to other researchers in the long term. When sharing your datasets, you should share your:
+
+<img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/pub7.png"> 
+
+### Persistent Identifiers
+
+Persistent Identifiers (PIDs) help keep track of everything and make research searchable and citable. They're unique links that will never expire.
+
+Digital Object Identifiers (DOIs)
+: Can be created and used for **publications, datasets, lab equipment, research software**, and more.
+
+Open Researcher and Contributor ID (ORCiD)
+: Unique identifier for **researchers**. Distinguish yourself from scholars with the same name; connect your datasets, code, and publications.
+
+ORCID is a community-build not-for-profit organization, and is free for users and sustained by member instituions. [Sign up for an ORCID here.](https://orcid.org/)
+
+When you share data in a repository, the repository will create a DOI for your data. There are also fields to enter your publication DOI and the ORCIDs for researchers who worked on the project. 
+
+*Make sure to add your dataset DOI and your ORCID to your publication as well!*
+
+If you're interested in learning more, check out:
+- "[Set yourself up for research success: Manage your data like a pro, and get your own ORCiD profile](https://scds.github.io/intro-rdm/researchsuccess.html)"
+- "[What are ORCiDs and DOIs—and Why Do I Need Them?](https://scds.github.io/intro-rdm/doi-orcid.html)"
+
+### Standards - Sustainable File Formats
+
+Have you ever saved data on a CD, DVD, or Blu-ray? How about a zip drive or HD DVD? Do you use Google Docs or Prezi, where all your documents are stored online on a proprietary platform in a proprietary format? What would you do if that platform closed down?
+
+Other researchers may not have access to any proprietary software you use, so data and metadata should ideally be stored in sustainable formats. Look for formats that are:
+- Standardized
+- Well documented
+- In common usage
+- Uncompressed
+
+Research instrument files may be manufacturer-specific and should be converted to a sustainable format when possible. [Learn more about sustainable file formats here.](https://site.uit.no/dataverseno/deposit/prepare/
+#what-are-preferred-file-formats)
+
+### Data Licensing
+
+If you don’t have a license for your data or code, it falls under the default copyright laws. This means nobody else can copy, distribute, or modify your work without being at risk. Not having an explicit license restricts others from using your code or data and causes confusion.
+
+Licenses range from giving data into the public domain, where it is free for anyone to use for any purpose, to narrower licenses which may restrict use to non-commercial use only or require attribution to the author when the data is used. 
+
+- Creative Commons (CC): [creativecommons.org](https://creativecommons.org/)
+  - CC0 - public domain dedication
+  - CC-BY - requires attribution
+  - There are further restrictions that can be added, such as NC.
+- Open Data Commons: [opendatacommons.org](https://opendatacommons.org/)
+  - Similar licenses to CC but built for data
+  - PDDL - Public Domain Dedication and License
+  - ODC-By - require attribution
+  - ODbL - attribution and share alike
+- Traditional Knowledge (TK): [localcontexts.org/licenses](https://localcontexts.org/licenses)
+  - In addition to the First Nations Information Governence Centre's OCAP training, communities may also choose to use TK licenses.
+
+### Community Norms
+In addition to licenses, there are also Dataverse Community Norms as well as scientific best practices which assert that proper credit should be given through citation of datasets. Dataverse and Open Data Commons community norms include:
+- Share your work
+- Credit and Cite the datasets you use
+- Maintain the anonymity of human research participants
+- Encourage others to reuse data
+- Use open formats
+- Don't use Digital Rights Management (DRM)
+
+### Metadata + Documentation
+The first step towards making a dataset FAIR is creating good metadata. Metadata is "data about data", and includes simple elements such as a dataset title, description, author list, date of creation, language, and a unique identifier/link such as a DOI. 
+
+**Metadata**: When you deposit data in a repository, include metadata such as a title, date the data was collected, language, description, keywords, geographic location, and more. This helps other researchers narrow down the search and understand if the data is useful to them.
+
+**Documentation**: Deposit a README file alongside your dataset to ensure others can understand how you gathered the data and how they can use it. The [Organization and Documentation](https://scds.github.io/rdm-best-practices/topics/2-organization-and-documentation.html) section of this module gives a bit more information about creating a README. 
+
+## Open Access (OA) Publishing
+
+Another important facet of research is Open Access Publishing. The Tri-Agency is requiring any publicly funded research to be published openly. We encourage all research to be published openly when possible!
+
+### Publication Repositories
+- Final manuscripts can be deposited in an institutional or disciplinary repository (such as [arXiv.org](https://arXiv.org)).
+- Researchers are responsible for navigating the copyright requirements of the journal, but there are lots of resources available, and the library can assist you if you need help. [Learn more about Open Access at McMaster here.](https://library.mcmaster.ca/research/open-access#tab-open-access-publishing) 
+
+### Journals
+- Journal provides open access to the article (within 12 months).
+- Most journals will charge open access fees. 
+
+### MacSphere
+
+<img src="../assets/img/lessons/macsphere.jpg" width="30%">
+
+[MacSphere](https://macsphere.mcmaster.ca/) is McMaster's institutional repository, and it is the home for all scholarly documents, including publications, presentations, conference proceedings, theses, reports, and more.
+
+If you're a McMaster graduate student, MacSphere is where you will publish your thesis once you graduate! We encourage graduate researchers to publish their data in McMaster Dataverse, their publication in MacSphere, and then link both using persistent identifiers. [Book a consultation with RDM Services to learn how!](https://u.mcmaster.ca/rdm-appointments)
+
+You can access MacSphere by going to [macsphere.mcmaster.ca/](https://macsphere.mcmaster.ca/).
 
 ## Key Points / Summary
 
