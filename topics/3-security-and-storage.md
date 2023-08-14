@@ -108,7 +108,7 @@ Make sure your online information is secure by ensuring your password is:
 > Remembering multiple passwords can be difficult. Use a trusted password manager to keep track of your passwords for you. Some examples are [BitWarden](https://bitwarden.com/) and [1Password](https://1password.com/).
 
 ### Common Password Mistakes
-<img src="../assets/img/lessons/bad-passwords.png" alt="an image of password bad practices: stored in a spreadsheet, and all of them are football" width="50%" align=right style="display: block"></img>
+<img src="../assets/img/lessons/bad-passwords.png" alt="an image of password bad practices: stored in a spreadsheet, and all of them are football" width="50%" align=right style="display: block">
 
 Make sure your passwords aren't:
 
