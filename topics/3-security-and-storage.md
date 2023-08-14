@@ -123,14 +123,14 @@ Identical
 
 For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
 
+### Try this quick quiz - what are some best practices for storing, securing, and backing up data?
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUMDlGWTVBUlhRVFA4UTMwVjZIVU1XNUhOTC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 ## Key Points / Summary
 
 - Data security can prevent unwanted data access and loss.
 - You should have 3 copies of your data, 2 of which should be easily accessible, and 1 should be stored in another location.
-
-### Try this quick quiz - what are some best practices for storing, securing, and backing up data?
-
-<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpUMDlGWTVBUlhRVFA4UTMwVjZIVU1XNUhOTC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## Additional Resources
 - [Research Data Storage Finder Tool](https://rdm.mcmaster.ca/finder)
