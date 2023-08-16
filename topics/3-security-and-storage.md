@@ -63,9 +63,10 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 ## How Should I Protect my Data?
 
 ### Encrypt Sensitive Data
-<img src="../assets/img/lessons/sensitive-data.png" alt="an image of a focus group where parents and babies are learning about nutrition with a researcher" width="50%" align=right style="display: block; margin: 10px; border-radius: 30px">
-
-  <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins> 
+<div style="width:45%; float: right; margin-left: 10px" markdown="1">
+  <img src="../assets/img/lessons/sensitive-data.png" style="border-radius: 30px" alt="" width="100%">  
+  <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
+</div>
   
 Sensitive data is any data that could cause harm if released openly. This includes personally identifiable information or personal health information. It can also include confidential business information (such as data that might lead to a patent), sensitive ecological information (like nesting sites for endangered species), or Indigenous cultural pracitces. 
 
@@ -109,8 +110,6 @@ Make sure your online information is secure by ensuring your password is:
 > Remembering multiple passwords can be difficult. Use a trusted password manager to keep track of your passwords for you. Some examples are [BitWarden](https://bitwarden.com/) and [1Password](https://1password.com/).
 
 ### Common Password Mistakes
-<img src="../assets/img/lessons/bad-passwords.png" alt="an image of password bad practices: stored in a spreadsheet, and all of them are football" width="50%" align=right style="display: block">
-
 Make sure your passwords aren't:
 
 Written Down
@@ -121,6 +120,8 @@ Too Simple
 
 Identical
 : Using the same password for multiple websites is like having one key for multiple locks; if it's stolen, the thief can open them all.
+
+<img src="../assets/img/lessons/bad-passwords.png" alt="an image of password bad practices: stored in a spreadsheet, and all of them are football" width="70%"  style="margin: auto; display: block">
 
 For more tips on data privacy, check out our [Data Privacy Best Practices](https://scds.github.io/intro-rdm/privacy.html) workshop.
 

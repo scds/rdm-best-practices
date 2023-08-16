@@ -134,9 +134,9 @@ Data Dictionaries
 Codebooks
 : Like data dictionaries but for suvery or statistical data - includes the survey layout and structure, and codes for questions and answers.
 
+<h3>Example README file</h3>
 <div style="display: grid; align-items: top; row-gap: 2px; column-gap: 10px">
   <div style="grid-row-start: 1; grid-column-start: 1">
-    <h3>Example README file</h3>
     <p>You can find an portion of an example README documentation file on the right side.</p>
     <p>It starts off with some of the important project information, such as the project's name, the date that the project took place in, a small description about the project, funder information, and finally the researcher's contact information.</p>
     <p>It then mentions the file organization system, followed by any naming coventions that the files follow.</p>
