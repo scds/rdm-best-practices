@@ -4,9 +4,10 @@ title: 2 - Organization and Documentation
 nav_order: 5
 ---
 
+<img src="../assets/img/lessons/document-header.png" width="100%">
+
 {: .no_toc}  
 # Organization and Documentation
-<img src="../assets/img/lessons/document-header.png" width="100%">
 Data documentation and organization supports how findable, accessible, interoperable, and reusable your data is.
 
 <details markdown="block" class="toc">

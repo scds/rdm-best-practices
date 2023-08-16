@@ -4,9 +4,10 @@ title: 3 - Data Security and Storage
 nav_order: 6
 ---
 
+<img src="../assets/img/lessons/backup-header.png" width="100%">
+
 {: .no_toc}  
 # Data Security and Storage
-<img src="../assets/img/lessons/backup-header.png" width="100%">
 Data security is important not only to prevent unwanted access to your data but also to prevent data loss.
 
 <details markdown="block" class="toc">

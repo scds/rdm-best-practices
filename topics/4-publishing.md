@@ -4,9 +4,10 @@ title: 4 - Data Publishing
 nav_order: 7
 ---
 
+<img src="../assets/img/lessons/publishing-header.png" width="100%">
+
 {: .no_toc}  
 # Data Publishing
-<img src="../assets/img/lessons/publishing-header.png" width="100%">
 What will you do with your data and research once you've wrapped up your project?
 
 <details markdown="block" class="toc">

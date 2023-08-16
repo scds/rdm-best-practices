@@ -9,9 +9,11 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
+
+<img src="../assets/img/lessons/dmp-header.png" width="100%">
+
 {: .no_toc}  
 # Data Management Plans (DMPs)
-<img src="../assets/img/lessons/dmp-header.png" width="100%">
 Data Management Plans are used to plan, organize, and document how you're going to use your data throughout your research project.
 
 <!-- This is your table of contents. You don't need to touch it, it automatically creates it when you add or remove headers. If you do not want a header to be included, put {: .no_toc } above the header line, as you can see above with Lesson 1 - Lesson Name. Make sure that there's also an empty line above {: .no_toc }... Markdown is picky about this :( -->
