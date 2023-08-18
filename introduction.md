@@ -44,8 +44,6 @@ Research data and research materials can look very different in different fields
 
 Data can take many different forms, depending on the kind of research work you're undertaking. If you can use it as a building block to come up with new knowledge or understanding, it could qualify as research data. Research data inform findings or contributions that are then shared through research outputs: publications, knowledge translations, projects, and more. 
 
-<!-- <b>[Take this quick quiz - which of these examples count as research data?](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true)</b> -->
-
 ### Try this quick quiz - which of the following examples could count as research data?
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/57134/embed" width="993" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
