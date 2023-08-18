@@ -38,17 +38,16 @@ If your research involves biological samples or survey results, you may feel fai
 
 But what if your research is rooted in creative practice? What if you're looking for the specific heat of a material under a magnetic field? What if you're  What if you work with archives or lists of references? What if you're working on an industry-sponsored initiative? 
 
-Research data and research materials can look very different in different fields. Using examples from the [Tri-Agency RDM Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy-frequently-asked-questions#1c): 
+Research data and research materials can look very different in different fields. According to the [Tri-Agency RDM Policy FAQs](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy-frequently-asked-questions#1c): 
 
-"Examples of <b>research materials</b> may include bio-samples for a geneticist, primary sources in an archival fonds for an historian, or a school of zebrafish for a biologist.
+"Research data are data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or creative practice, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results."
 
-Examples of <b>research data</b> corresponding to these materials include gene sequence data, chronological analyses of ideas and contributions, and data on the behaviour of the zebrafish under certain conditions, respectively. “Research material” is a general concept that spans disciplines and may be digital or analogue." <i>(Emphasis ours.)</i>
+Data can take many different forms, depending on the kind of research work you're undertaking. If you can use it as a building block to come up with new knowledge or understanding, it could qualify as research data. Research data inform findings or contributions that are then shared through research outputs: publications, knowledge translations, projects, and more. 
 
 <!-- <b>[Take this quick quiz - which of these examples count as research data?](https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true)</b> -->
 
-### Try this quick quiz - which of these examples count as research data?
-
-<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=B2M3RCm0rUKMJSjNSW9HcgnYn5K4fIxDk7z2v_ZuozpURExTSUZCV1lZWlQyVzlHTzEyTVFPNE1QTy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: solid 2px #7a003c; max-width:100%; max-height:100vh; border-radius: 10px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+### Try this quick quiz - which of the following examples could count as research data?
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/57134/embed" width="993" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## What is Research Data Management?
 
