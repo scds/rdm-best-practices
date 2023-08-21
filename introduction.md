@@ -36,7 +36,7 @@ Add, edit, or remove any content below for the workshop in question.
 <img src="assets/img/introduction/ResearchData.png" alt="Different Data types in a thought bubble - sound, images, video, code, and more" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 If your research involves biological samples or survey results, you may feel fairly confident you're working with research data. 
 
-But what if your research is rooted in creative practice? What if you're looking for the specific heat of a material under a magnetic field? What if you're  What if you work with archives or lists of references? What if you're working on an industry-sponsored initiative? 
+But what if your research is rooted in creative practice? What if you're looking for the specific heat of a material under a magnetic field? What if you work with archives or texts by other scholars? What if you're working on an industry-sponsored initiative? 
 
 Research data and research materials can look very different in different fields. According to the [Tri-Agency RDM Policy FAQs](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy-frequently-asked-questions#1c): 
 
