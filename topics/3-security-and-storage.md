@@ -131,8 +131,11 @@ For more tips on data privacy, check out our [Data Privacy Best Practices](https
 
 ## Key Points / Summary
 
-- Data security can prevent unwanted data access and loss.
-- You should have 3 copies of your data, 2 of which should be easily accessible, and 1 should be stored in another location.
+- Data security and backups can prevent unwanted data access and loss.
+- You should have 3 copies of your data, 2 of which should be easily accessible on different systems, and 1 should be stored in an off-site location.
+- The Research Data Storage Finder Tool helps you find McMaster-approved storage providers based on size, collaboration, and risk level.
+- Encrypt sensitive data.
+- Enable Multi-Factor Authentication on all platforms and use a password manager.
 
 ## Additional Resources
 - [Research Data Storage Finder Tool](https://rdm.mcmaster.ca/finder)
