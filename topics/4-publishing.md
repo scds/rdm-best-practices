@@ -4,7 +4,7 @@ title: 4 - Data Publishing
 nav_order: 7
 ---
 
-<img src="../assets/img/lessons/publishing-header.png" width="100%">
+<img src="../assets/img/lessons/publishing-header.png" alt="Data Publishing - an arrow going upwards and to the left - sharing out" width="100%">
 
 {: .no_toc}  
 # Data Publishing
@@ -46,7 +46,7 @@ Sharing research data benefits you as a researcher and the whole research commun
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub1.png" width="100%">
+<img src="../assets/img/lessons/pub1.png" alt="" width="100%">
 
 In a typical scenario, you'll have a researcher or research team that has just finished their research process. As a result of their research, they'll have gathered research data, which supports a publication or journal. The research data, however, is not made publicly available.
 
@@ -54,7 +54,7 @@ In a typical scenario, you'll have a researcher or research team that has just f
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub2.png" width="100%">
+<img src="../assets/img/lessons/pub2.png" alt="" width="100%">
 
 Once the research goes through a peer review process, you might be able to send the data directly to peer reviewers for them to analyze. However, after the article is published, data becomes harder to access. We often see the phrase "data available on request" at the bottom of an article. In practice, there are often big delays in receiving data in this manner, and it can be quite difficult to contact the researcher as well.
 
@@ -62,7 +62,7 @@ Once the research goes through a peer review process, you might be able to send 
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub3.png" width="100%">
+<img src="../assets/img/lessons/pub3.png" alt="" width="100%">
 
 Later on, another researcher or research team might contact the original researcher for the research data so that they can try reproducing it, building upon it, or re-analyzing it as part of their own research. However, original researcher might be hard to contact, or they might no longer have access to the data. This can make it hard for researchers to trust the paper's findings without the original data to back them up, and this can even lead to article retractions. They might cite your publication, but are unable to cite your data. 
 
@@ -72,7 +72,7 @@ Later on, another researcher or research team might contact the original researc
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub1.png" width="100%">
+<img src="../assets/img/lessons/pub1.png" alt="" width="100%">
 
 In a data sharing scenario, the process starts exactly the same way. A researcher or research team would have finished their research process and published their findings.
 
@@ -80,7 +80,7 @@ In a data sharing scenario, the process starts exactly the same way. A researche
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub4.png" width="100%">
+<img src="../assets/img/lessons/pub4.png" alt="" width="100%">
 
 However, in this context, the researcher deposits their data into a trusted data repository. Now, the data is easily accessible to researchers.
 
@@ -88,7 +88,7 @@ However, in this context, the researcher deposits their data into a trusted data
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub5.png" width="100%">
+<img src="../assets/img/lessons/pub5.png" alt="" width="100%">
 
 Any researcher participating in the peer review process can easily access the data, but any other researcher can also verify the data easily.
 
@@ -96,7 +96,7 @@ Any researcher participating in the peer review process can easily access the da
 
 <div class="code-example" markdown="1">
 
-<img src="../assets/img/lessons/pub6.png" width="100%">
+<img src="../assets/img/lessons/pub6.png" alt="" width="100%">
 
 Now that the research data is easily accessible in a trusted data repository, other researchers can use this secondary data for several other purposes. 
 
@@ -159,7 +159,7 @@ Repositories provide:
 - easy-to-use shared platforms made for research.
 
 There are thousands of data repositories available for you to use. A few types of repositories include:
-<img src="../assets/img/lessons/repo-options.png" width="100%">
+<img src="../assets/img/lessons/repo-options.png" alt="Different repository types: Domain Specific is a neuron; Generalist is a circle with four equidistant points, Code is dots and dashes reading MSLT, Repository Finder is a Microscope" width="100%">
 
 Domain-Specific Repositories
 : Focus on certain types of data, such as genomic information or astronomical information. [Nature's Data Repository Guidance](https://www.nature.com/sdata/policies/repositories#) can be helpful in narrowing down possibilities.
@@ -186,7 +186,7 @@ If you're interested in using the McMaster Dataverse, check out [Depositing & Sh
 
 ### Federated Research Data Repository (FRDR)
 
-<img src="../assets/img/lessons/frdrlogo.png" width="60%">
+<img src="../assets/img/lessons/frdrlogo.png" alt="FRDR's logo which is a series of interconnected diamonds" width="60%">
 
 Another great option is the FRDR, which is available to any researcher affiliated with a Canadian institution. 
 
@@ -204,7 +204,7 @@ If you're interested in piloting this service, email us at [rdm@mcmaster.ca](ema
 ## Datasets as a Digital Object
 When sharing datasets, there are a few things you need consider adding to ensure data is findable by other researchers, interconnected with publications and yourself, other researchers know how they are allowed to use it, and it will be available to other researchers in the long term. When sharing your datasets, you should share your:
 
-<img width="100%" src="../assets/img/lessons/pub7.png"> 
+<img width="100%" alt="A bullseye: Research output (data/code) is the centre, followed by concentric circles outwards - Identifiers, Standards, Metadata" src="../assets/img/lessons/pub7.png"> 
 
 ### Persistent Identifiers
 
@@ -287,7 +287,7 @@ Another important facet of research is Open Access Publishing. The Tri-Agency is
 
 ### MacSphere
 
-<img src="../assets/img/lessons/macsphere.jpg" width="30%">
+<img src="../assets/img/lessons/macsphere.jpg" alt="MacSphere's logo which is a grey globe" width="30%">
 
 [MacSphere](https://macsphere.mcmaster.ca/) is McMaster's institutional repository, and it is the home for all scholarly documents, including publications, presentations, conference proceedings, theses, reports, and more.
 
