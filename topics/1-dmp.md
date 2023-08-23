@@ -10,7 +10,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 
-<img src="../assets/img/lessons/dmp-header.png" width="100%">
+<img src="../assets/img/lessons/dmp-header.png" alt="Data Management Plans (DMPs) a game plan with a pointed line moving towards an O between two Xs" width="100%">
 
 {: .no_toc}  
 # Data Management Plans (DMPs)
@@ -119,13 +119,13 @@ The website offers lots of data management guidance and links, including McMaste
 
 You can also add collaborators or other researchers to the site so that you can work on the DMP together. 
 
-<img src="../assets/img/lessons/dmp1.png" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/dmp1.png" alt="DMP Assistant interface - login screen" width="100%" style="border: solid 2px black">
 
 To check out DMP Assistant, you can go to <https://assistant.portagenetwork.ca/>.
 
 McMaster RDM Services has developed a "McMaster General Purpose DMP Template" which has specific guidance for services and resources at our university. Just click the "Write Plan" button and click on the "Comments and Guidance" sidebar in each section.
 
-<img src="../assets/img/lessons/dmp-guidance.PNG" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/dmp-guidance.PNG" alt="DMP Assistant interface - What file formats will your data be collected in? Will these formats allow for data reuse, sharing, and preservation? Comments and guidance boxes are on the right-hand side" width="100%" style="border: solid 2px black">
 
 We also offer a full workshop on Data Management Plans and using DMP Assistant. You can find that here: <https://scds.github.io/intro-rdm/dmp.html>.
 
