@@ -299,7 +299,7 @@ You can access MacSphere by going to [macsphere.mcmaster.ca/](https://macsphere.
 - Many journals and funders require data to be open.
 - There are thousands of data repositories - RDM services can help you decide.
 - Data should be shared in sustainable file formats, with a clear license and documentation.
-- Graduate students should share data in McMaster Dataverse and connect it to their thesis in MacSphere. 
+- Connect your publication, dataset, and yourself through DOIs, ORCIDs, and other persistent identifiers. Graduate students should share data in McMaster Dataverse and connect it to their thesis in MacSphere. 
 
 ## Additional Resources
 
