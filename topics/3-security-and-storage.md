@@ -58,13 +58,13 @@ McMaster provides a research data storage finder tool online, which is an intera
 
 You can access this tool at <https://rdm.mcmaster.ca/finder>.
 
-<img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/sec1.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
+<img width="100%" src="../assets/img/lessons/sec1.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
 
 ## How Should I Protect my Data?
 
 ### Encrypt Sensitive Data
 <div style="width:45%; float: right; margin-left: 10px" markdown="1">
-  <img src="../assets/img/lessons/sensitive-data.png" style="border-radius: 30px" alt="" width="100%">  
+  <img src="../assets/img/lessons/sensitive-data.png" style="border-radius: 30px" width="100%">  
   <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
 </div>
   

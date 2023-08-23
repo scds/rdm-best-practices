@@ -74,7 +74,7 @@ Keeping your files organized makes it easier to know where files are and where n
     </ul>
   </div>
 
-  <img width="80%" alt="the three different story view buttons" src="../assets/img/lessons/org1.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
+  <img width="80%" alt="a file system sorted by year, project, then experiment type" src="../assets/img/lessons/org1.png" style="border: solid 2px black; grid-row-start: 1; grid-column-start: 2; margin: auto; display: block"> 
 </div>
 
 The example above shows files organized by year (2021), followed by project (T-rex bone microstructure), and then experiment type (Histology). 
@@ -146,7 +146,7 @@ Codebooks
     <p>Keeping an active README for your project is a key best practice. You can also expand on this with other details such as licenses, related publications, data and file overviews, and methodological information if you share your data.</p>
   </div>
   <div style="grid-row-start: 1; grid-column-start: 2;">
-    <img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/org2.png" style="margin: auto; display: block"> 
+    <img width="100%" alt="an example README file" src="../assets/img/lessons/org2.png" style="margin: auto; display: block"> 
     <i><ins>Image credit: <a href="http://dataabinitio.com/?p=378">Data Ab Initio</a></ins></i>
   </div>
 </div>

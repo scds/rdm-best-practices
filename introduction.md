@@ -55,7 +55,7 @@ You can think of it as an umbrella term for different practices and things you d
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
-<img src="assets/img/introduction/RDMLifecycle.png" alt="" width="95%" style="margin: auto; display: block">
+<img src="assets/img/introduction/RDMLifecycle.png" width="95%" style="margin: auto; display: block">
 
 ### Planning
 
@@ -126,8 +126,8 @@ Have you thought about how vulnerable your data might be?
 ### Lost Laptops and Hard Drives
 
 <div>
-<img src="assets/img/introduction/lost1.png" alt="" width="56%">
-<img src="assets/img/introduction/lost2.png" alt="" width="43%">
+<img src="assets/img/introduction/lost1.png" alt="a missing backpack poster with $5000 reward for return" width="56%">
+<img src="assets/img/introduction/lost2.png" alt="a missing laptop poster -- willing to pay $1000 for lost data " width="43%">
 </div>
 
 We've all seen posters like these, perhaps through online posts on Twitter or Reddit. 
@@ -136,14 +136,14 @@ If you're storing your data on your laptop and it gets stolen or lost, do you ha
 
 ### Campus Fires, Floods, and Environmental Disasters
 
-<img src="assets/img/introduction/fire.jpg" alt="" width="100%">
+<img src="assets/img/introduction/fire.jpg" alt="the museum of brazil burning down" width="100%">
 <ins>Image credit: [ABC News](https://abcnews.go.com/International/brazil-suffers-incalculable-loss-massive-fire-engulfs-200/story?id=57577478)</ins>
 
 Even if you have your data stored on campus, things do happen. For example, a few years ago, the National Museum of Brazil burned down, and many researchers lost not only their data but their physical specimens that they were collecting data from.
 
 In cases like these, it's really difficult to recover or recollect data.
 
-<img src="assets/img/introduction/fire2.png" alt="" width="70%" style="margin: auto; display: block">
+<img src="assets/img/introduction/fire2.png" alt="university of manitoba in smoke after fire" width="70%" style="margin: auto; display: block">
 
 <ins>Image credit: [CTV News Winnipeg](https://winnipeg.ctvnews.ca/fire-may-have-destroyed-years-of-research-1.384027)</ins>
 
@@ -153,7 +153,7 @@ The university had to spend several million dollars on forensic data recovery ov
 
 ### Missing Data
 
-<img src="assets/img/introduction/missing.png" alt="" width="70%" style="margin: auto; display: block">
+<img src="assets/img/introduction/missing.png" alt="missing data graph showing data extant lowering the older a paper is" width="70%" style="margin: auto; display: block">
 
 <ins>Image credit: [Current Biology](https://doi.org/10.1016/j.cub.2013.11.014)</ins>
 
@@ -165,7 +165,7 @@ It's important for you to be mindful of storing your data in such a way that it 
 
 <!-- Change size of Dave's Div using the width of the div-->
 <div style="width:30%; float: right; margin-left: 10px" markdown="1">
-  <img src="assets/img/introduction/Dave.png" style="border-radius: 15px" alt="" width="100%">  
+  <img src="assets/img/introduction/Dave.png" style="border-radius: 15px" width="100%">  
   <ins>Image credit: [National Cancer Institute on Unsplash](https://unsplash.com/photos/XrLSV-CKmuQ)</ins>
 </div>
 

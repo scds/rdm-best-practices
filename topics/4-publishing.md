@@ -204,7 +204,7 @@ If you're interested in piloting this service, email us at [rdm@mcmaster.ca](ema
 ## Datasets as a Digital Object
 When sharing datasets, there are a few things you need consider adding to ensure data is findable by other researchers, interconnected with publications and yourself, other researchers know how they are allowed to use it, and it will be available to other researchers in the long term. When sharing your datasets, you should share your:
 
-<img width="100%" alt="the three different story view buttons" src="../assets/img/lessons/pub7.png"> 
+<img width="100%" src="../assets/img/lessons/pub7.png"> 
 
 ### Persistent Identifiers
 
