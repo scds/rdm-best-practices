@@ -4,7 +4,7 @@ title: 3 - Data Security and Storage
 nav_order: 6
 ---
 
-<img src="../assets/img/lessons/backup-header.png" width="100%">
+<img src="../assets/img/lessons/backup-header.png" alt="Storage and Security - a folder with a circular backup arrow on it" width="100%">
 
 {: .no_toc}  
 # Data Security and Storage
@@ -26,7 +26,7 @@ The following video demonstrates each of the steps outlined below in text.
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
 ## Even cautious people can lose data. 
-<img src="../assets/img/lessons/research-security.png" alt="research is locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
+<img src="../assets/img/lessons/research-security.png" alt="research locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 <i>Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day.
 Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.</i>
 
@@ -64,7 +64,7 @@ You can access this tool at <https://rdm.mcmaster.ca/finder>.
 
 ### Encrypt Sensitive Data
 <div style="width:45%; float: right; margin-left: 10px" markdown="1">
-  <img src="../assets/img/lessons/sensitive-data.png" style="border-radius: 30px" width="100%">  
+  <img src="../assets/img/lessons/sensitive-data.png" alt="McMaster researcher Tina Moffatt's Moms to Babies project - image shows a focus group with parents and babies sitting around a table discussing nutrition" style="border-radius: 30px" width="100%">  
   <ins>Image credit: [Kevin Patrick Robbins, “Moms to Babies Research, Focus Group,” June 19, 2018, McMaster Asset Bank](https://brand-resources.mcmaster.ca/asset-bank/action/viewAsset?id=7293&index=21&total=68&view=viewSearchItem)</ins>
 </div>
   
