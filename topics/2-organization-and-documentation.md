@@ -4,7 +4,7 @@ title: 2 - Organization and Documentation
 nav_order: 5
 ---
 
-<img src="../assets/img/lessons/document-header.png" width="100%">
+<img src="../assets/img/lessons/document-header.png" alt="Organize and Document - writing with a pencil" src="assets/img/introduction/document-icon.png" width="100%">
 
 {: .no_toc}  
 # Organization and Documentation
@@ -146,7 +146,7 @@ Codebooks
     <p>Keeping an active README for your project is a key best practice. You can also expand on this with other details such as licenses, related publications, data and file overviews, and methodological information if you share your data.</p>
   </div>
   <div style="grid-row-start: 1; grid-column-start: 2;">
-    <img width="100%" alt="an example README file" src="../assets/img/lessons/org2.png" style="margin: auto; display: block"> 
+    <img width="100%" alt="an example README file" src="../assets/img/lessons/org2.png" alt="Kristin Briney's README file outlining project details, organization, and filenames" style="margin: auto; display: block"> 
     <i><ins>Image credit: <a href="http://dataabinitio.com/?p=378">Data Ab Initio</a></ins></i>
   </div>
 </div>
