@@ -23,7 +23,7 @@ In this introductory workshop, learn about research data management best practic
 McMaster University is located on the territories of the Mississauga and Haudenosaunee nations, within the lands protected by the Dish With One Spoon wampum agreement. Research data management by and with First Nations, Métis, and/or Inuit requires alignment with Indigenous data sovereignty principles. These must be developed an approved by these communities. Examples of Indigenous data management practices include the First Nations Information Governance Centre’s [OCAP principles](https://fnigc.ca/ocap-training/), the [OCAS principles](https://umanitoba.ca/health-sciences/sites/health-sciences/files/2021-01/framework-research-report-fnmip.pdf) endorsed by the Manitoba Métis Federation, the principles of [Inuit Qaujimajatuqangit](https://doi.org/10.1139/as-2020-0015), ᐃᓄᐃᑦ ᑕᐱᕇᑦ ᑲᓇᑕᒥ (Inuit Tapiriit Kanatami) [National Inuit Strategy on Research](https://www.itk.ca/national-strategy-on-research-launched/), and Global Indigenous Data Alliance’s [CARE principles](https://www.gida-global.org/care). 
 
 ## Meet the RDM Team
-<img src="assets/img/lessons/RDM_Services.png" alt="RDM Services Team - Isaac Pratt and Danica Evering" width="100%">
+<img src="assets/img/lessons/RDM_Services.png" alt="RDM Services Team - Isaac Pratt and Danica Evering; Isaac is a white man with blonde hair and square black glasses, Danica is a white person with a short bleached buzzcut" width="100%">
 Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists. A bit about us:
 
 <b>Isaac Pratt, PhD</b> has a background in Biological Anthropology, Medical Imaging, and Human Anatomy. He has a PhD in Anatomy & Cell Biology from the University of Saskatchewan.
