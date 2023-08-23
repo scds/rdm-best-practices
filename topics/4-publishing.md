@@ -27,9 +27,7 @@ The following video demonstrates each of the steps outlined below in text.
 
 ## Publishing Data
 
-What do you plan to do with your data once it's been published? How will you ensure that your data remains accessible (to you and others) in the long-term?
-
-Consider the advantages of publishing your datasets in an online repository for preservation and sharing.
+What do you plan to do with your data once your project is finished and your research has been published? How will you ensure that your data remains accessible (to you and others) in the long-term? Consider the advantages of publishing your datasets in an online repository for preservation and sharing.
 
 ## Open Research
 <img src="../assets/img/lessons/open-research.png" alt="A system where researchers, collaborators, publications, code, data, government, and more are all interconnected" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
@@ -297,9 +295,11 @@ You can access MacSphere by going to [macsphere.mcmaster.ca/](https://macsphere.
 
 ## Key Points / Summary
 
-- Data sharing is important for data preservation and is an overall benefit to the research community.
+- Data sharing is important for data preservation and is an overall benefit to you as a researcher, to the research community, funders, and the public.
 - Many journals and funders require data to be open.
-- There are over 1000 data repositories you can choose from to upload your data. MacSphere and McMaster Dataverse are McMaster's institutional repositories.
+- There are thousands of data repositories - RDM services can help you decide.
+- Data should be shared in sustainable file formats, with a clear license and documentation.
+- Graduate students should share data in McMaster Dataverse and connect it to their thesis in MacSphere. 
 
 ## Additional Resources
 
