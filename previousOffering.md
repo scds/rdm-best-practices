@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Previous Offerings
+title: Workshop Recordings
 nav_order: 1
-parent: Home
+parent: Conclusion & Additional Resources
 ---
 
 <!-- If you still want to provide access to old workshop recordings, this is the place! Full-length live workshop videos go here. -->
 <!-- If you decide you don't need it, delete this page AND go to 'index.md', set has_children to false. -->
 
 
-# Previous Offerings
+# Workshop Recordings
 
 {: .note }
 Workshop live recordings are listed here. They are provided as an **alternative** to the workshop content provided on here. They are **not** required.

@@ -5,7 +5,7 @@ nav_order: 1
 has_toc: false
 
 # Set this to "false" if you removed 'previousOffering.md'
-has_children: true 
+has_children: false 
 ---
 <!-- 
 This will be the home page of your module. It should give a small introduction to the student about the workshop topic.
@@ -45,3 +45,6 @@ By the end of this workshop, you will have learned about:
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration
 This module will take around 1 to 2 hours, however feel free to work at your own pace!
+
+## Watch the Recording
+If you'd prefer to watch a video version of this module, navigate to the "[Workshop Recordings](previousOffering)" page.
