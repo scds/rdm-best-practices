@@ -55,7 +55,7 @@ You can think of it as an umbrella term for different practices and things you d
 
 RDM comprises of a number of activities throughout your project's lifecycle.
 
-<img src="assets/img/introduction/RDMLifecycle.png" width="95%" style="margin: auto; display: block">
+<img src="assets/img/introduction/RDMLifecycle.png" alt="Research data managemetn lifecycle: planning, data collection, analysis, publication, and preservation" width="95%" style="margin: auto; display: block">
 
 ### Planning
 
@@ -165,7 +165,7 @@ It's important for you to be mindful of storing your data in such a way that it 
 
 <!-- Change size of Dave's Div using the width of the div-->
 <div style="width:30%; float: right; margin-left: 10px" markdown="1">
-  <img src="assets/img/introduction/Dave.png" style="border-radius: 15px" width="100%">  
+  <img src="assets/img/introduction/Dave.png" alt="person in a lab coat looking at an xray" style="border-radius: 15px" width="100%">  
   <ins>Image credit: [National Cancer Institute on Unsplash](https://unsplash.com/photos/XrLSV-CKmuQ)</ins>
 </div>
 
@@ -195,7 +195,7 @@ This leaves Dave with two options:
 <div markdown="1" style="display: grid; column-gap: 10px; align-items: center">
 
 <div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1; grid-template-columns: [first] 15% [line2] auto [end];">
-<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/dmp-icon.png" width="80%">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/dmp-icon.png" alt="Data Management Plans (DMPs) a game plan with a pointed line moving towards an O between two Xs" width="80%">
 <div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
 <p markdown="1" style="margin-bottom: 0px">**1)**&nbsp; Dave could **[make a plan for his data](topics/1-dmp.md)**.</p>
   <div markdown="1" style="margin-left: 25px; margin-top: 0px">
@@ -206,7 +206,7 @@ This leaves Dave with two options:
 </div>
 
 <div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 2; grid-column-end: 1; grid-row-end: 2; grid-template-columns: [first] 15% [line2] auto [end];">
-<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/document-icon.png" width="80%">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" alt="Organize and Document - writing with a pencil" src="assets/img/introduction/document-icon.png" width="80%">
 <div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
 <p markdown="1" style="margin-bottom: 0px">**2)**&nbsp; Dave could **[organize and document](topics/2-organization-and-documentation.md)** his data consistently.</p>
   <div markdown="1" style="margin-left: 25px; margin-top: 0px">
@@ -216,7 +216,7 @@ This leaves Dave with two options:
 </div>
 
 <div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 3; grid-column-end: 1; grid-row-end: 3; grid-template-columns: [first] 15% [line2] auto [end];">
-<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/backup-icon.png" width="80%">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/backup-icon.png" alt="Storage and Security - a folder with a circular backup arrow on it" width="80%">
 <div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
 <p markdown="1" style="margin-bottom: 0px">**3)**&nbsp; Dave could **[store and backup](topics/3-security-and-storage.md)** his data securely.</p>
   <div markdown="1" style="margin-left: 25px; margin-top: 0px">
@@ -227,7 +227,7 @@ This leaves Dave with two options:
 </div>
 
 <div markdown="1" style="display: grid; column-gap: 10px; align-items: center; grid-column-start: 1; grid-row-start: 4; grid-column-end: 1; grid-row-end: 4; grid-template-columns: [first] 15% [line2] auto [end];">
-<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/share-icon.png" width="80%">
+<img style="grid-column-start: 1; grid-row-start: 1; grid-column-end: 1; grid-row-end: 1" src="assets/img/introduction/share-icon.png" alt="Publish - an arrow going upwards and to the left - sharing out" width="80%">
 <div style="grid-column-start: 2; grid-row-start: 1; grid-column-end: 2; grid-row-end: 1" markdown="1">
 <p markdown="1" style="margin-bottom: 0px">**4)**&nbsp; Dave could make sure his data is ready for **[archiving and sharing](topics/4-publishing.md)**.</p>
   <div markdown="1" style="margin-left: 25px; margin-top: 0px">
