@@ -29,7 +29,7 @@ The following video demonstrates each of the steps outlined below in text.
 <img src="../assets/img/lessons/cat2.png" alt="A category icon turning into two cats" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
 Raw data isn't easy to understand and re-use. Raw numbers in a spreadsheet can be hard to interpret, and variable names might have abbreviations that make it hard for others to understand what it truly is *(What did you mean when you made this column "cat2"? [Did it mean cat, category, or something else?](https://medium.com/@samanthaming/bad-variable-names-to-avoid-%EF%B8%8F-bbab6614f36))*. 
 
-To make data easier to understand, create data documentation that follows the [FAIR principles](https://www.go-fair.org/fair-principles/), which states that data should be Findable, Accessible, Interoperable, and Reusable.
+Documentation is an important best practice to make data easier to understand and reuse. 
 
 Some key questions:
 - If you need to use data you collected over a year ago, how easy would they be to find and use?
@@ -166,9 +166,10 @@ Codebooks
 
 ## Key Points / Summary
 
-- Data documentation supports the reusability and interoperability of your research.
-- There are lots of tools designed to make your life easier.
-- Build a documentation scheme you will actually use.
+- Good documentation and organization helps research reliability, validity, reproducibility, and integrity.
+- There are lots of tools that make collaboration, reference management, and notetaking easier.
+- Build a documentation scheme you will actually use and make file organization a habit.
+- README files, data dictionaries, and codebooks help you and others understand your data. 
 
 ## Additional Resources
 
