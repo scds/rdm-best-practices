@@ -4,7 +4,7 @@ title: 2 - Organization and Documentation
 nav_order: 5
 ---
 
-<img src="../assets/img/lessons/document-header.png" alt="Organize and Document - writing with a pencil" src="assets/img/introduction/document-icon.png" width="100%">
+<img src="../assets/img/lessons/document-header.png" alt="Organize and Document - writing with a pencil" width="100%">
 
 {: .no_toc}  
 # Organization and Documentation
