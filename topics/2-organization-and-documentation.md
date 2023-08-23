@@ -166,7 +166,7 @@ Codebooks
 
 ## Key Points / Summary
 
-- Good documentation and organization helps research reliability, validity, reproducibility, and integrity.
+- Good documentation and organization supports reliability, validity, reproducibility, and integrity.
 - There are lots of tools that make collaboration, reference management, and notetaking easier.
 - Build a documentation scheme you will actually use and make file organization a habit.
 - README files, data dictionaries, and codebooks help you and others understand your data. 
