@@ -27,8 +27,7 @@ The following video demonstrates each of the steps outlined below in text.
 
 ## Even cautious people can lose data. 
 <img src="../assets/img/lessons/research-security.png" alt="research locked in a cage" width="40%" align=right style="display: block; margin: 10px; border-radius: 30px">
-<i>Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day.
-Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.</i>
+<i>Dr. X leads a large, well-funded lab that conducts multiple expansive research projects. Because the lab is so busy, Dr. X and their team also receive many emails every day. Although they have taken some IT training, one of them clicks a link in a carefully-worded email and their research system becomes infected. All of Dr. X’s critical research files are encrypted; locked down until the university pays a ransom. <br>Depending on how well Dr. X’s research is backed up, they could be facing an impossible decision: lose years of research...or pay up.</i>
 
 Backup strategies, encrypting sensitive data, and data security measures help you store your data safely. This can help **avoid data loss** through theft or loss of your devices, accidental damage or destruction. It can also help you maintain **IT security** by avoiding computer viruses, malware, ransomware, and more. 
 
