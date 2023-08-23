@@ -133,9 +133,9 @@ We also offer a full workshop on Data Management Plans and using DMP Assistant. 
 ## Key Points / Summary
 
 - DMPs are living documents that should be used and updated regularly throughout the entirety of the project's life cycle.
-- Some research funders require applicants to submit a Data Management Plan (DMP) or Data Management and Sharing Plan (DMSP).
+- Some research funders require applicants to submit a DMP. 
 - DMPs should address how data will be managed during and after the project, including Data Types and Data Collection, Documentation and Metadata, Storage and Backup, Preservation, Sharing and Reuse, Responsibilities and Resources, and Ethics and Legal Compliance
-- DMP Assistant provides a McMaster General Purpose DMP Template with McMaster-specific advice and available resources in the "Guidance" sidebar.
+- DMP Assistant has a McMaster General Purpose DMP Template with McMaster-specific advice and available resources in the "Guidance" sidebar.
 
 <!-- You can add your additional resources for a specific lesson here, however there is also an additional resources page alongside the conclusion at the end of the workshop website. -->
 ## Additional Resources
