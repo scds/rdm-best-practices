@@ -11,7 +11,7 @@ parent: Home
 
 # Previous Offerings
 
-{: .warning }
+{: .note }
 Workshop live recordings are listed here. They are provided as an **alternative** to the workshop content provided on here. They are **not** required.
 
 <!-- ----------------------------------------------------------------- -->
