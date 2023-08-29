@@ -3,6 +3,12 @@ github_repo_url: "https://scds.github.io/rdm-best-practices/" # *** Enter worksh
 gh_edit_repository: "https://github.com/scds/rdm-best-practices/" # *** Enter the github URL for your repo
 ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
 
+# This line appears in the footer. Use it to credit the people who created the workshop content, and those who set up the online pages. 
+# If you know some HTML, you can use HTML tags.
+# To create a link: <a href="PUT URL HERE">the text you want to show up</a>
+# Template: 'Module content created by <a href="LINK HERE">NAME</a> and <a href="LINK HERE">NAME</a>; edited for online use and online pages created by <a href="LINK HERE">NAME</a>.'
+credits: 'Workshop content and graphics created by <a href="https://orcid.org/0000-0001-7839-3922">Isaac Pratt</a> and <a href="https://orcid.org/0000-0001-6326-7659">Danica Evering</a>; edited for online use and online pages created by <a href="https://www.multipixels.dev">Richie Motorgeanu.'
+
 # DMDS Settings
 # subtitle: "This workshop is part of the SCDS Do More with Digital Scholarship series."
 # nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
@@ -17,12 +23,19 @@ ga_tracking: "" # *** This needs to be set up in Google Analytics once you know 
 # nav_footer_logo_top: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/dash-logo.png"
 # nav_footer_logo_top_href: "https://library.mcmaster.ca/services/dash"
 
-# OTHER settings - Override series specific settings
-subtitle: "This workshop is part of the Research Data Management (RDM) series."
+# RDM settings
+subtitle: 'This workshop is part of the <a href="https://rdm.mcmaster.ca/">Research Data Management (RDM)</a> series.'
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
 nav_footer_logo_bottom_href: "https://scds.ca/"
 nav_footer_logo_top: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/rdm-logo.png"
 nav_footer_logo_top_href: "https://rdm.mcmaster.ca/"
+
+# OTHER settings - Override series specific settings
+# subtitle: "This workshop is part of the __ series."
+# nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
+# nav_footer_logo_bottom_href: "https://scds.ca/"
+# nav_footer_logo_top: ""
+# nav_footer_logo_top_href: ""
 
 #  _____       _   _   _          _      _                            
 # | ____|   __| | (_) | |_       / \    | |__     ___   __   __   ___ 
