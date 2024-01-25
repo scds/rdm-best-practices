@@ -35,7 +35,7 @@ Workshop live recordings are listed here. They are provided as an **alternative*
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public"></iframe>
 [View original here.](https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public)
 
-<embed src="assets/docs/2023-09-RDM-best-practices.pdf" style="border:none;" width="100%" height="466px">
+<embed src="assets/docs/2023-09_RDM-best-practices-slides.pdf" style="border:none;" width="100%" height="466px">
 [Download as PDF.](assets/docs/2023-09_RDM-best-practices-slides.pdf)
 </details>
 
