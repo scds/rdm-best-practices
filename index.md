@@ -15,7 +15,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Best Practices for Managing Data in Your Research
+# Best Practices for Managing Data in your Research
 
 In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
