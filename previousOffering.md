@@ -17,6 +17,20 @@ Workshop live recordings are listed here. They are provided as an **alternative*
 <!-- ----------------------------------------------------------------- -->
 
 <details markdown="1">
+<summary>October 2024</summary> <!-- Change "Month Year" with the date of the recording ---> 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b80cd5df-7ea5-4e35-a76b-8d1990566822/public"></iframe>
+[View original here.](https://echo360.ca/media/b80cd5df-7ea5-4e35-a76b-8d1990566822/public)
+
+<!-- 
+<embed src="assets/docs/2023-01-RDM-best-practices.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/2023-01-RDM-best-practices.pdf) 
+-->
+
+</details>
+
+<!-- ----------------------------------------------------------------- -->
+
+<details markdown="1">
 <summary>January 2024</summary> <!-- Change "Month Year" with the date of the recording ---> 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/df4034d2-5c78-467a-bdc6-7dc56b755758/public"></iframe>
 [View original here.](https://echo360.ca/media/df4034d2-5c78-467a-bdc6-7dc56b755758/public)
@@ -30,14 +44,14 @@ Workshop live recordings are listed here. They are provided as an **alternative*
 
 <!-- ----------------------------------------------------------------- -->
 
-<details markdown="1">
-<summary>September 2023</summary> <!-- Change "Month Year" with the date of the recording ---> 
+<!-- <details markdown="1">
+<summary>September 2023</summary>
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public"></iframe>
 [View original here.](https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public)
 
 <embed src="assets/docs/2023-09_RDM-best-practices-slides.pdf" style="border:none;" width="100%" height="466px">
 [Download as PDF.](assets/docs/2023-09_RDM-best-practices-slides.pdf)
-</details>
+</details> -->
 
 <!-- ----------------------------------------------------------------- -->
 
